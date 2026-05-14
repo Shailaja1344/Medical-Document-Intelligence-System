@@ -1,0 +1,106 @@
+2026-05-02 20:18:19 | INFO | __main__:<module>:267 | Generating synthetic datasets...
+2026-05-02 20:18:19 | INFO | __main__:generate_classifier_dataset:247 | Classifier dataset: 1000 samples → C:\Users\shail\OneDrive\Desktop\Antigravity projects\medical_document_intelligence\data\synthetic_annotations\classifier_dataset.csv
+2026-05-02 20:18:20 | INFO | __main__:generate_ner_dataset:262 | NER dataset: 600 sentences → C:\Users\shail\OneDrive\Desktop\Antigravity projects\medical_document_intelligence\data\synthetic_annotations\ner_dataset.conll
+2026-05-02 20:18:20 | INFO | __main__:<module>:270 | Done. Files written:
+  C:\Users\shail\OneDrive\Desktop\Antigravity projects\medical_document_intelligence\data\synthetic_annotations\classifier_dataset.csv
+  C:\Users\shail\OneDrive\Desktop\Antigravity projects\medical_document_intelligence\data\synthetic_annotations\ner_dataset.conll
+2026-05-02 20:18:39 | INFO | __main__:main:27 | ============================================================
+2026-05-02 20:18:39 | INFO | __main__:main:28 | STEP 1: Training TF-IDF SVM Document Classifier
+2026-05-02 20:18:39 | INFO | __main__:main:29 | ============================================================
+2026-05-02 20:18:54 | INFO | src.classifier.train_classifier:load_dataset:23 | Loaded 1000 samples from C:\Users\shail\OneDrive\Desktop\Antigravity projects\medical_document_intelligence\data\synthetic_annotations\classifier_dataset.csv
+2026-05-02 20:18:54 | INFO | src.classifier.tfidf_svm_classifier:train:60 | Training TF-IDF SVM on 800 samples...
+2026-05-02 20:18:54 | INFO | src.classifier.tfidf_svm_classifier:train:74 | TF-IDF SVM CV F1: 1.0000 ± 0.0000
+2026-05-02 20:18:54 | INFO | src.classifier.tfidf_svm_classifier:save:104 | Saved TF-IDF SVM to C:\Users\shail\OneDrive\Desktop\Antigravity projects\medical_document_intelligence\models\tfidf_svm_classifier.joblib
+2026-05-02 20:18:54 | INFO | src.classifier.train_classifier:train_tfidf_svm:44 | TF-IDF SVM test accuracy: 1.0000
+2026-05-02 20:18:54 | INFO | __main__:main:33 | SVM Test Accuracy: 1.0000
+2026-05-02 20:18:54 | INFO | __main__:main:34 | SVM CV F1: 1.0000
+2026-05-02 20:18:54 | INFO | __main__:main:37 | ============================================================
+2026-05-02 20:18:54 | INFO | __main__:main:38 | STEP 2: Skipping NER Training — Using pre-trained BioBERT for inference
+2026-05-02 20:18:54 | INFO | __main__:main:39 | ============================================================
+2026-05-02 20:18:54 | INFO | __main__:main:41 | ============================================================
+2026-05-02 20:18:54 | INFO | __main__:main:42 | Training complete. Run the API with:
+2026-05-02 20:18:54 | INFO | __main__:main:43 |   python app.py
+2026-05-02 20:18:54 | INFO | __main__:main:44 |   or: uvicorn app:app --reload
+2026-05-02 20:18:54 | INFO | __main__:main:45 | ============================================================
+2026-05-02 20:35:00 | INFO | src.pipeline.orchestrator:__init__:38 | Initializing Medical Document Pipeline...
+2026-05-02 20:35:00 | INFO | src.correction.spell_corrector:__init__:57 | MedicalSpellCorrector initialized
+2026-05-02 20:35:00 | INFO | src.pipeline.orchestrator:__init__:47 | Pipeline initialized successfully
+2026-05-02 20:35:00 | INFO | src.pipeline.orchestrator:_run_pipeline:142 | OCR stage: 20 chars, conf=1.000
+2026-05-02 20:35:00 | DEBUG | src.correction.spell_corrector:_correct_token:104 | Spell correction: sharma → dharma
+2026-05-02 20:35:00 | DEBUG | src.correction.spell_corrector:_correct_token:98 | Fuzzy correction: paracemol → paracetamol (score=90)
+2026-05-02 20:35:00 | INFO | src.classifier.tfidf_svm_classifier:load:115 | Loaded TF-IDF SVM classifier
+2026-05-02 20:35:00 | INFO | src.pipeline.orchestrator:_run_pipeline:162 | Document type: Prescription (conf=0.244)
+2026-05-02 20:35:02 | INFO | src.ner.ner_model:load:37 | Loading NER model from: dslim/bert-base-NER
+2026-05-02 20:35:19 | INFO | src.pipeline.orchestrator:_run_pipeline:142 | OCR stage: 27 chars, conf=1.000
+2026-05-02 20:35:19 | DEBUG | src.correction.spell_corrector:_correct_token:104 | Spell correction: sharma → dharma
+2026-05-02 20:35:19 | DEBUG | src.correction.spell_corrector:_correct_token:98 | Fuzzy correction: paracemol → paracetamol (score=90)
+2026-05-02 20:35:19 | INFO | src.pipeline.orchestrator:_run_pipeline:162 | Document type: Lab Report (conf=0.241)
+2026-05-02 20:35:19 | INFO | src.ner.ner_model:load:37 | Loading NER model from: dslim/bert-base-NER
+2026-05-02 20:35:21 | INFO | src.pipeline.orchestrator:_run_pipeline:142 | OCR stage: 27 chars, conf=1.000
+2026-05-02 20:35:21 | DEBUG | src.correction.spell_corrector:_correct_token:104 | Spell correction: sharma → dharma
+2026-05-02 20:35:21 | DEBUG | src.correction.spell_corrector:_correct_token:98 | Fuzzy correction: paracemol → paracetamol (score=90)
+2026-05-02 20:35:21 | INFO | src.pipeline.orchestrator:_run_pipeline:162 | Document type: Lab Report (conf=0.241)
+2026-05-02 20:35:21 | INFO | src.ner.ner_model:load:37 | Loading NER model from: dslim/bert-base-NER
+2026-05-02 20:35:48 | INFO | src.pipeline.orchestrator:_run_pipeline:142 | OCR stage: 29 chars, conf=1.000
+2026-05-02 20:35:48 | DEBUG | src.correction.spell_corrector:_correct_token:104 | Spell correction: sharma → dharma
+2026-05-02 20:35:48 | DEBUG | src.correction.spell_corrector:_correct_token:98 | Fuzzy correction: paracetemol → paracetamol (score=91)
+2026-05-02 20:35:48 | INFO | src.pipeline.orchestrator:_run_pipeline:162 | Document type: Lab Report (conf=0.241)
+2026-05-02 20:35:48 | INFO | src.ner.ner_model:load:37 | Loading NER model from: dslim/bert-base-NER
+2026-05-02 20:35:53 | INFO | src.ner.ner_model:load:50 | NER model loaded on cpu
+2026-05-02 20:35:55 | INFO | src.ner.ner_model:load:50 | NER model loaded on cpu
+2026-05-02 20:35:55 | INFO | src.ner.entity_extractor:extract:60 | Extracted 0 entities across 0 types
+2026-05-02 20:35:55 | INFO | src.translation.translator:_get_pipeline:37 | Loading translation model: Helsinki-NLP/opus-mt-en-hi
+2026-05-02 20:35:55 | INFO | src.ner.entity_extractor:extract:60 | Extracted 0 entities across 0 types
+2026-05-02 20:35:55 | INFO | src.translation.translator:_get_pipeline:37 | Loading translation model: Helsinki-NLP/opus-mt-en-hi
+2026-05-02 20:36:31 | INFO | src.ner.ner_model:load:50 | NER model loaded on cpu
+2026-05-02 20:36:32 | INFO | src.ner.ner_model:load:50 | NER model loaded on cpu
+2026-05-02 20:36:33 | INFO | src.ner.entity_extractor:extract:60 | Extracted 0 entities across 0 types
+2026-05-02 20:36:33 | INFO | src.translation.translator:_get_pipeline:37 | Loading translation model: Helsinki-NLP/opus-mt-en-hi
+2026-05-02 20:36:33 | INFO | src.ner.entity_extractor:extract:60 | Extracted 0 entities across 0 types
+2026-05-02 20:36:33 | INFO | src.translation.translator:_get_pipeline:37 | Loading translation model: Helsinki-NLP/opus-mt-en-hi
+2026-05-02 20:36:43 | INFO | src.translation.translator:translate:79 | Translated to hi: 29 → 35 chars
+2026-05-02 20:36:43 | INFO | src.translation.translator:_get_pipeline:37 | Loading translation model: Helsinki-NLP/opus-mt-en-mr
+2026-05-02 20:36:44 | INFO | src.translation.translator:translate:79 | Translated to hi: 29 → 35 chars
+2026-05-02 20:36:44 | INFO | src.translation.translator:_get_pipeline:37 | Loading translation model: Helsinki-NLP/opus-mt-en-mr
+2026-05-02 20:36:44 | INFO | src.translation.translator:translate:79 | Translated to hi: 29 → 35 chars
+2026-05-02 20:36:44 | INFO | src.translation.translator:_get_pipeline:37 | Loading translation model: Helsinki-NLP/opus-mt-en-mr
+2026-05-02 20:36:50 | INFO | src.translation.translator:translate:79 | Translated to hi: 22 → 16 chars
+2026-05-02 20:36:50 | INFO | src.translation.translator:_get_pipeline:37 | Loading translation model: Helsinki-NLP/opus-mt-en-mr
+2026-05-02 20:37:10 | INFO | src.translation.translator:translate:79 | Translated to mr: 29 → 7 chars
+2026-05-02 20:37:10 | INFO | src.pipeline.orchestrator:_run_pipeline:221 | Pipeline complete in 81.803s
+2026-05-02 20:37:25 | INFO | src.translation.translator:translate:79 | Translated to mr: 29 → 7 chars
+2026-05-02 20:37:25 | INFO | src.pipeline.orchestrator:_run_pipeline:221 | Pipeline complete in 123.809s
+2026-05-02 20:37:26 | INFO | src.translation.translator:translate:79 | Translated to mr: 29 → 7 chars
+2026-05-02 20:37:26 | INFO | src.pipeline.orchestrator:_run_pipeline:221 | Pipeline complete in 127.106s
+2026-05-02 20:37:26 | INFO | src.translation.translator:translate:79 | Translated to mr: 22 → 7 chars
+2026-05-02 20:37:26 | INFO | src.pipeline.orchestrator:_run_pipeline:221 | Pipeline complete in 146.428s
+2026-05-02 20:37:38 | INFO | src.pipeline.orchestrator:_run_pipeline:142 | OCR stage: 105 chars, conf=1.000
+2026-05-02 20:37:40 | DEBUG | src.correction.spell_corrector:_correct_token:104 | Spell correction: Sanju → sand
+2026-05-02 20:37:40 | DEBUG | src.correction.spell_corrector:_correct_token:104 | Spell correction: Patil → patio
+2026-05-02 20:37:40 | INFO | src.pipeline.orchestrator:_run_pipeline:162 | Document type: Prescription (conf=0.269)
+2026-05-02 20:37:40 | INFO | src.ner.entity_extractor:extract:60 | Extracted 0 entities across 0 types
+2026-05-02 20:37:46 | INFO | src.translation.translator:translate:79 | Translated to hi: 123 → 68 chars
+2026-05-02 20:37:54 | INFO | src.translation.translator:translate:79 | Translated to mr: 123 → 48 chars
+2026-05-02 20:37:54 | INFO | src.pipeline.orchestrator:_run_pipeline:221 | Pipeline complete in 16.564s
+2026-05-02 20:39:16 | INFO | src.pipeline.orchestrator:_run_pipeline:142 | OCR stage: 212 chars, conf=1.000
+2026-05-02 20:39:16 | DEBUG | src.correction.spell_corrector:_correct_token:104 | Spell correction: Ashwini → ashing
+2026-05-02 20:39:17 | DEBUG | src.correction.spell_corrector:_correct_token:104 | Spell correction: Rohan → roman
+2026-05-02 20:39:18 | DEBUG | src.correction.spell_corrector:_correct_token:98 | Fuzzy correction: Age → dosage (score=90)
+2026-05-02 20:39:19 | DEBUG | src.correction.spell_corrector:_correct_token:104 | Spell correction: Ascoril → ascorbic
+2026-05-02 20:39:19 | INFO | src.pipeline.orchestrator:_run_pipeline:162 | Document type: Prescription (conf=0.321)
+2026-05-02 20:39:20 | INFO | src.ner.entity_extractor:extract:60 | Extracted 0 entities across 0 types
+2026-05-02 20:39:30 | INFO | src.translation.translator:translate:79 | Translated to hi: 273 → 271 chars
+2026-05-02 20:39:50 | INFO | src.pipeline.orchestrator:_run_pipeline:142 | OCR stage: 212 chars, conf=1.000
+2026-05-02 20:39:51 | DEBUG | src.correction.spell_corrector:_correct_token:104 | Spell correction: Ashwini → ashing
+2026-05-02 20:39:52 | DEBUG | src.correction.spell_corrector:_correct_token:104 | Spell correction: Rohan → roman
+2026-05-02 20:39:53 | DEBUG | src.correction.spell_corrector:_correct_token:98 | Fuzzy correction: Age → dosage (score=90)
+2026-05-02 20:39:53 | DEBUG | src.correction.spell_corrector:_correct_token:104 | Spell correction: Ascoril → ascorbic
+2026-05-02 20:39:53 | INFO | src.pipeline.orchestrator:_run_pipeline:162 | Document type: Prescription (conf=0.321)
+2026-05-02 20:39:54 | INFO | src.ner.entity_extractor:extract:60 | Extracted 0 entities across 0 types
+2026-05-02 20:40:05 | INFO | src.translation.translator:translate:79 | Translated to hi: 273 → 271 chars
+2026-05-02 20:40:09 | INFO | src.translation.translator:translate:79 | Translated to mr: 273 → 126 chars
+2026-05-02 20:40:09 | INFO | src.pipeline.orchestrator:_run_pipeline:221 | Pipeline complete in 53.081s
+2026-05-02 20:40:41 | INFO | src.translation.translator:translate:79 | Translated to mr: 273 → 126 chars
+2026-05-02 20:40:41 | INFO | src.pipeline.orchestrator:_run_pipeline:221 | Pipeline complete in 50.633s
+2026-05-15 00:18:02 | INFO | app:lifespan:18 | Starting Medical Document Intelligence API v1.0.0
+2026-05-15 00:18:02 | INFO | app:lifespan:19 | API ready — visit http://localhost:8000/docs for Swagger UI

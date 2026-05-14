@@ -1,0 +1,4949 @@
+Patient O
+Deepak B-PATIENT_NAME
+Joshi I-PATIENT_NAME
+Joshi O
+diagnosed O
+with O
+Type B-DIAGNOSIS
+2 I-DIAGNOSIS
+Diabetes I-DIAGNOSIS
+
+Patient O
+Kavita B-PATIENT_NAME
+Desai I-PATIENT_NAME
+Desai O
+diagnosed O
+with O
+Tonsillitis B-DIAGNOSIS
+
+Patient O
+Sunita B-PATIENT_NAME
+Sharma I-PATIENT_NAME
+Sharma O
+diagnosed O
+with O
+Hypothyroidism B-DIAGNOSIS
+
+Patient O
+Deepak B-PATIENT_NAME
+Joshi I-PATIENT_NAME
+Joshi O
+diagnosed O
+with O
+Tonsillitis B-DIAGNOSIS
+
+Tab. O
+Prednisolone B-MEDICINE_NAME
+5mg B-DOSAGE
+HS B-FREQUENCY
+for O
+3 B-DURATION
+days I-DURATION
+
+Tab. O
+Metformin B-MEDICINE_NAME
+10mg B-DOSAGE
+SOS B-FREQUENCY
+for O
+3 B-DURATION
+days I-DURATION
+
+Tab. O
+Cefixime B-MEDICINE_NAME
+20mg B-DOSAGE
+BD B-FREQUENCY
+for O
+7 B-DURATION
+days I-DURATION
+
+Patient O
+Vijay B-PATIENT_NAME
+Rao I-PATIENT_NAME
+Rao O
+diagnosed O
+with O
+Malaria B-DIAGNOSIS
+
+Tab. O
+Doxycycline B-MEDICINE_NAME
+1g B-DOSAGE
+SOS B-FREQUENCY
+for O
+14 B-DURATION
+days I-DURATION
+
+Tab. O
+Atorvastatin B-MEDICINE_NAME
+10mg B-DOSAGE
+OD B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Patient O
+Arun B-PATIENT_NAME
+Kumar I-PATIENT_NAME
+Kumar O
+diagnosed O
+with O
+Typhoid B-DIAGNOSIS
+
+Tab. O
+Cefixime B-MEDICINE_NAME
+40mg B-DOSAGE
+QID B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Tab. O
+Prednisolone B-MEDICINE_NAME
+1g B-DOSAGE
+OD B-FREQUENCY
+for O
+1 B-DURATION
+month I-DURATION
+
+Tab. O
+Pantoprazole B-MEDICINE_NAME
+10mg B-DOSAGE
+HS B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Patient O
+Priya B-PATIENT_NAME
+Singh I-PATIENT_NAME
+Singh O
+diagnosed O
+with O
+Sinusitis B-DIAGNOSIS
+
+Patient O
+Vijay B-PATIENT_NAME
+Rao I-PATIENT_NAME
+Rao O
+diagnosed O
+with O
+Viral B-DIAGNOSIS
+Fever I-DIAGNOSIS
+
+Patient O
+Vijay B-PATIENT_NAME
+Rao I-PATIENT_NAME
+Rao O
+diagnosed O
+with O
+Dengue B-DIAGNOSIS
+Fever I-DIAGNOSIS
+
+Patient O
+Meena B-PATIENT_NAME
+Nair I-PATIENT_NAME
+Nair O
+diagnosed O
+with O
+Malaria B-DIAGNOSIS
+
+Tab. O
+Diclofenac B-MEDICINE_NAME
+500mg B-DOSAGE
+OD B-FREQUENCY
+for O
+7 B-DURATION
+days I-DURATION
+
+Patient O
+Sunita B-PATIENT_NAME
+Sharma I-PATIENT_NAME
+Sharma O
+diagnosed O
+with O
+Urinary B-DIAGNOSIS
+Tract I-DIAGNOSIS
+Infection I-DIAGNOSIS
+
+Tab. O
+Ramipril B-MEDICINE_NAME
+1g B-DOSAGE
+BD B-FREQUENCY
+for O
+10 B-DURATION
+days I-DURATION
+
+Tab. O
+Salbutamol B-MEDICINE_NAME
+5mg B-DOSAGE
+BD B-FREQUENCY
+for O
+1 B-DURATION
+month I-DURATION
+
+Patient O
+Priya B-PATIENT_NAME
+Singh I-PATIENT_NAME
+Singh O
+diagnosed O
+with O
+Dengue B-DIAGNOSIS
+Fever I-DIAGNOSIS
+
+Tab. O
+Prednisolone B-MEDICINE_NAME
+250mg B-DOSAGE
+BD B-FREQUENCY
+for O
+7 B-DURATION
+days I-DURATION
+
+Tab. O
+Amlodipine B-MEDICINE_NAME
+250mg B-DOSAGE
+HS B-FREQUENCY
+for O
+1 B-DURATION
+month I-DURATION
+
+Tab. O
+Cetirizine B-MEDICINE_NAME
+100mg B-DOSAGE
+BD B-FREQUENCY
+for O
+1 B-DURATION
+month I-DURATION
+
+Patient O
+Meena B-PATIENT_NAME
+Nair I-PATIENT_NAME
+Nair O
+diagnosed O
+with O
+Tonsillitis B-DIAGNOSIS
+
+Tab. O
+Metformin B-MEDICINE_NAME
+200mg B-DOSAGE
+TDS B-FREQUENCY
+for O
+14 B-DURATION
+days I-DURATION
+
+Tab. O
+Pantoprazole B-MEDICINE_NAME
+100mg B-DOSAGE
+BD B-FREQUENCY
+for O
+1 B-DURATION
+month I-DURATION
+
+Patient O
+Sunita B-PATIENT_NAME
+Sharma I-PATIENT_NAME
+Sharma O
+diagnosed O
+with O
+Acute B-DIAGNOSIS
+Gastritis I-DIAGNOSIS
+
+Patient O
+Sunita B-PATIENT_NAME
+Sharma I-PATIENT_NAME
+Sharma O
+diagnosed O
+with O
+Type B-DIAGNOSIS
+2 I-DIAGNOSIS
+Diabetes I-DIAGNOSIS
+
+Patient O
+Ramesh B-PATIENT_NAME
+Patil I-PATIENT_NAME
+Patil O
+diagnosed O
+with O
+Acute B-DIAGNOSIS
+Gastritis I-DIAGNOSIS
+
+Patient O
+Deepak B-PATIENT_NAME
+Joshi I-PATIENT_NAME
+Joshi O
+diagnosed O
+with O
+Sinusitis B-DIAGNOSIS
+
+Tab. O
+Losartan B-MEDICINE_NAME
+5mg B-DOSAGE
+QID B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Patient O
+Deepak B-PATIENT_NAME
+Joshi I-PATIENT_NAME
+Joshi O
+diagnosed O
+with O
+Tonsillitis B-DIAGNOSIS
+
+Tab. O
+Doxycycline B-MEDICINE_NAME
+250mg B-DOSAGE
+OD B-FREQUENCY
+for O
+1 B-DURATION
+month I-DURATION
+
+Patient O
+Kavita B-PATIENT_NAME
+Desai I-PATIENT_NAME
+Desai O
+diagnosed O
+with O
+Urinary B-DIAGNOSIS
+Tract I-DIAGNOSIS
+Infection I-DIAGNOSIS
+
+Patient O
+Ramesh B-PATIENT_NAME
+Patil I-PATIENT_NAME
+Patil O
+diagnosed O
+with O
+Dengue B-DIAGNOSIS
+Fever I-DIAGNOSIS
+
+Tab. O
+Ibuprofen B-MEDICINE_NAME
+20mg B-DOSAGE
+TDS B-FREQUENCY
+for O
+1 B-DURATION
+month I-DURATION
+
+Patient O
+Deepak B-PATIENT_NAME
+Joshi I-PATIENT_NAME
+Joshi O
+diagnosed O
+with O
+Dengue B-DIAGNOSIS
+Fever I-DIAGNOSIS
+
+Patient O
+Ramesh B-PATIENT_NAME
+Patil I-PATIENT_NAME
+Patil O
+diagnosed O
+with O
+Hypertension B-DIAGNOSIS
+
+Tab. O
+Glimepiride B-MEDICINE_NAME
+10mg B-DOSAGE
+QID B-FREQUENCY
+for O
+10 B-DURATION
+days I-DURATION
+
+Tab. O
+Ondansetron B-MEDICINE_NAME
+5mg B-DOSAGE
+HS B-FREQUENCY
+for O
+7 B-DURATION
+days I-DURATION
+
+Tab. O
+Glimepiride B-MEDICINE_NAME
+200mg B-DOSAGE
+QID B-FREQUENCY
+for O
+14 B-DURATION
+days I-DURATION
+
+Patient O
+Vijay B-PATIENT_NAME
+Rao I-PATIENT_NAME
+Rao O
+diagnosed O
+with O
+Anemia B-DIAGNOSIS
+
+Tab. O
+Pantoprazole B-MEDICINE_NAME
+250mg B-DOSAGE
+QID B-FREQUENCY
+for O
+1 B-DURATION
+month I-DURATION
+
+Tab. O
+Ondansetron B-MEDICINE_NAME
+250mg B-DOSAGE
+OD B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Patient O
+Vijay B-PATIENT_NAME
+Rao I-PATIENT_NAME
+Rao O
+diagnosed O
+with O
+Anemia B-DIAGNOSIS
+
+Patient O
+Ramesh B-PATIENT_NAME
+Patil I-PATIENT_NAME
+Patil O
+diagnosed O
+with O
+Pneumonia B-DIAGNOSIS
+
+Patient O
+Kavita B-PATIENT_NAME
+Desai I-PATIENT_NAME
+Desai O
+diagnosed O
+with O
+Hypothyroidism B-DIAGNOSIS
+
+Patient O
+Ramesh B-PATIENT_NAME
+Patil I-PATIENT_NAME
+Patil O
+diagnosed O
+with O
+Anemia B-DIAGNOSIS
+
+Patient O
+Vijay B-PATIENT_NAME
+Rao I-PATIENT_NAME
+Rao O
+diagnosed O
+with O
+Sinusitis B-DIAGNOSIS
+
+Tab. O
+Cetirizine B-MEDICINE_NAME
+1g B-DOSAGE
+OD B-FREQUENCY
+for O
+1 B-DURATION
+month I-DURATION
+
+Patient O
+Deepak B-PATIENT_NAME
+Joshi I-PATIENT_NAME
+Joshi O
+diagnosed O
+with O
+Hypertension B-DIAGNOSIS
+
+Patient O
+Ramesh B-PATIENT_NAME
+Patil I-PATIENT_NAME
+Patil O
+diagnosed O
+with O
+Tonsillitis B-DIAGNOSIS
+
+Patient O
+Deepak B-PATIENT_NAME
+Joshi I-PATIENT_NAME
+Joshi O
+diagnosed O
+with O
+Sinusitis B-DIAGNOSIS
+
+Patient O
+Meena B-PATIENT_NAME
+Nair I-PATIENT_NAME
+Nair O
+diagnosed O
+with O
+Sinusitis B-DIAGNOSIS
+
+Patient O
+Deepak B-PATIENT_NAME
+Joshi I-PATIENT_NAME
+Joshi O
+diagnosed O
+with O
+Urinary B-DIAGNOSIS
+Tract I-DIAGNOSIS
+Infection I-DIAGNOSIS
+
+Patient O
+Ramesh B-PATIENT_NAME
+Patil I-PATIENT_NAME
+Patil O
+diagnosed O
+with O
+Tonsillitis B-DIAGNOSIS
+
+Patient O
+Deepak B-PATIENT_NAME
+Joshi I-PATIENT_NAME
+Joshi O
+diagnosed O
+with O
+Malaria B-DIAGNOSIS
+
+Tab. O
+Cetirizine B-MEDICINE_NAME
+200mg B-DOSAGE
+QID B-FREQUENCY
+for O
+1 B-DURATION
+month I-DURATION
+
+Patient O
+Vijay B-PATIENT_NAME
+Rao I-PATIENT_NAME
+Rao O
+diagnosed O
+with O
+Pneumonia B-DIAGNOSIS
+
+Patient O
+Arun B-PATIENT_NAME
+Kumar I-PATIENT_NAME
+Kumar O
+diagnosed O
+with O
+Tonsillitis B-DIAGNOSIS
+
+Patient O
+Sunita B-PATIENT_NAME
+Sharma I-PATIENT_NAME
+Sharma O
+diagnosed O
+with O
+Sinusitis B-DIAGNOSIS
+
+Patient O
+Priya B-PATIENT_NAME
+Singh I-PATIENT_NAME
+Singh O
+diagnosed O
+with O
+Bronchitis B-DIAGNOSIS
+
+Patient O
+Deepak B-PATIENT_NAME
+Joshi I-PATIENT_NAME
+Joshi O
+diagnosed O
+with O
+Sinusitis B-DIAGNOSIS
+
+Tab. O
+Azithromycin B-MEDICINE_NAME
+5mg B-DOSAGE
+TDS B-FREQUENCY
+for O
+14 B-DURATION
+days I-DURATION
+
+Patient O
+Arun B-PATIENT_NAME
+Kumar I-PATIENT_NAME
+Kumar O
+diagnosed O
+with O
+Hypothyroidism B-DIAGNOSIS
+
+Patient O
+Deepak B-PATIENT_NAME
+Joshi I-PATIENT_NAME
+Joshi O
+diagnosed O
+with O
+Urinary B-DIAGNOSIS
+Tract I-DIAGNOSIS
+Infection I-DIAGNOSIS
+
+Patient O
+Meena B-PATIENT_NAME
+Nair I-PATIENT_NAME
+Nair O
+diagnosed O
+with O
+Bronchitis B-DIAGNOSIS
+
+Patient O
+Arun B-PATIENT_NAME
+Kumar I-PATIENT_NAME
+Kumar O
+diagnosed O
+with O
+Bronchitis B-DIAGNOSIS
+
+Tab. O
+Ciprofloxacin B-MEDICINE_NAME
+500mg B-DOSAGE
+OD B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Patient O
+Deepak B-PATIENT_NAME
+Joshi I-PATIENT_NAME
+Joshi O
+diagnosed O
+with O
+Typhoid B-DIAGNOSIS
+
+Tab. O
+Amlodipine B-MEDICINE_NAME
+250mg B-DOSAGE
+BD B-FREQUENCY
+for O
+3 B-DURATION
+days I-DURATION
+
+Tab. O
+Pantoprazole B-MEDICINE_NAME
+5mg B-DOSAGE
+TDS B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Patient O
+Meena B-PATIENT_NAME
+Nair I-PATIENT_NAME
+Nair O
+diagnosed O
+with O
+Typhoid B-DIAGNOSIS
+
+Patient O
+Vijay B-PATIENT_NAME
+Rao I-PATIENT_NAME
+Rao O
+diagnosed O
+with O
+Type B-DIAGNOSIS
+2 I-DIAGNOSIS
+Diabetes I-DIAGNOSIS
+
+Tab. O
+Diclofenac B-MEDICINE_NAME
+250mg B-DOSAGE
+TDS B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Patient O
+Ramesh B-PATIENT_NAME
+Patil I-PATIENT_NAME
+Patil O
+diagnosed O
+with O
+Sinusitis B-DIAGNOSIS
+
+Tab. O
+Cefixime B-MEDICINE_NAME
+1g B-DOSAGE
+HS B-FREQUENCY
+for O
+7 B-DURATION
+days I-DURATION
+
+Tab. O
+Glimepiride B-MEDICINE_NAME
+10mg B-DOSAGE
+HS B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Tab. O
+Salbutamol B-MEDICINE_NAME
+100mg B-DOSAGE
+HS B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Tab. O
+Paracetamol B-MEDICINE_NAME
+20mg B-DOSAGE
+BD B-FREQUENCY
+for O
+3 B-DURATION
+days I-DURATION
+
+Patient O
+Kavita B-PATIENT_NAME
+Desai I-PATIENT_NAME
+Desai O
+diagnosed O
+with O
+Sinusitis B-DIAGNOSIS
+
+Patient O
+Priya B-PATIENT_NAME
+Singh I-PATIENT_NAME
+Singh O
+diagnosed O
+with O
+Typhoid B-DIAGNOSIS
+
+Patient O
+Vijay B-PATIENT_NAME
+Rao I-PATIENT_NAME
+Rao O
+diagnosed O
+with O
+Type B-DIAGNOSIS
+2 I-DIAGNOSIS
+Diabetes I-DIAGNOSIS
+
+Patient O
+Deepak B-PATIENT_NAME
+Joshi I-PATIENT_NAME
+Joshi O
+diagnosed O
+with O
+Pneumonia B-DIAGNOSIS
+
+Patient O
+Deepak B-PATIENT_NAME
+Joshi I-PATIENT_NAME
+Joshi O
+diagnosed O
+with O
+Tonsillitis B-DIAGNOSIS
+
+Patient O
+Meena B-PATIENT_NAME
+Nair I-PATIENT_NAME
+Nair O
+diagnosed O
+with O
+Bronchitis B-DIAGNOSIS
+
+Tab. O
+Ciprofloxacin B-MEDICINE_NAME
+200mg B-DOSAGE
+TDS B-FREQUENCY
+for O
+3 B-DURATION
+days I-DURATION
+
+Tab. O
+Ciprofloxacin B-MEDICINE_NAME
+10mg B-DOSAGE
+QID B-FREQUENCY
+for O
+14 B-DURATION
+days I-DURATION
+
+Tab. O
+Metformin B-MEDICINE_NAME
+200mg B-DOSAGE
+HS B-FREQUENCY
+for O
+10 B-DURATION
+days I-DURATION
+
+Patient O
+Priya B-PATIENT_NAME
+Singh I-PATIENT_NAME
+Singh O
+diagnosed O
+with O
+Hypertension B-DIAGNOSIS
+
+Patient O
+Priya B-PATIENT_NAME
+Singh I-PATIENT_NAME
+Singh O
+diagnosed O
+with O
+Pneumonia B-DIAGNOSIS
+
+Patient O
+Ramesh B-PATIENT_NAME
+Patil I-PATIENT_NAME
+Patil O
+diagnosed O
+with O
+Acute B-DIAGNOSIS
+Gastritis I-DIAGNOSIS
+
+Patient O
+Kavita B-PATIENT_NAME
+Desai I-PATIENT_NAME
+Desai O
+diagnosed O
+with O
+Anemia B-DIAGNOSIS
+
+Patient O
+Vijay B-PATIENT_NAME
+Rao I-PATIENT_NAME
+Rao O
+diagnosed O
+with O
+Anemia B-DIAGNOSIS
+
+Tab. O
+Omeprazole B-MEDICINE_NAME
+500mg B-DOSAGE
+QID B-FREQUENCY
+for O
+10 B-DURATION
+days I-DURATION
+
+Tab. O
+Prednisolone B-MEDICINE_NAME
+100mg B-DOSAGE
+HS B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Tab. O
+Prednisolone B-MEDICINE_NAME
+250mg B-DOSAGE
+HS B-FREQUENCY
+for O
+7 B-DURATION
+days I-DURATION
+
+Patient O
+Ramesh B-PATIENT_NAME
+Patil I-PATIENT_NAME
+Patil O
+diagnosed O
+with O
+Pneumonia B-DIAGNOSIS
+
+Patient O
+Arun B-PATIENT_NAME
+Kumar I-PATIENT_NAME
+Kumar O
+diagnosed O
+with O
+Dengue B-DIAGNOSIS
+Fever I-DIAGNOSIS
+
+Patient O
+Kavita B-PATIENT_NAME
+Desai I-PATIENT_NAME
+Desai O
+diagnosed O
+with O
+Urinary B-DIAGNOSIS
+Tract I-DIAGNOSIS
+Infection I-DIAGNOSIS
+
+Patient O
+Deepak B-PATIENT_NAME
+Joshi I-PATIENT_NAME
+Joshi O
+diagnosed O
+with O
+Typhoid B-DIAGNOSIS
+
+Patient O
+Vijay B-PATIENT_NAME
+Rao I-PATIENT_NAME
+Rao O
+diagnosed O
+with O
+Urinary B-DIAGNOSIS
+Tract I-DIAGNOSIS
+Infection I-DIAGNOSIS
+
+Tab. O
+Cefixime B-MEDICINE_NAME
+40mg B-DOSAGE
+OD B-FREQUENCY
+for O
+14 B-DURATION
+days I-DURATION
+
+Tab. O
+Prednisolone B-MEDICINE_NAME
+250mg B-DOSAGE
+OD B-FREQUENCY
+for O
+14 B-DURATION
+days I-DURATION
+
+Tab. O
+Doxycycline B-MEDICINE_NAME
+5mg B-DOSAGE
+HS B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Tab. O
+Salbutamol B-MEDICINE_NAME
+1g B-DOSAGE
+BD B-FREQUENCY
+for O
+3 B-DURATION
+days I-DURATION
+
+Patient O
+Sunita B-PATIENT_NAME
+Sharma I-PATIENT_NAME
+Sharma O
+diagnosed O
+with O
+Pneumonia B-DIAGNOSIS
+
+Patient O
+Sunita B-PATIENT_NAME
+Sharma I-PATIENT_NAME
+Sharma O
+diagnosed O
+with O
+Hypertension B-DIAGNOSIS
+
+Patient O
+Vijay B-PATIENT_NAME
+Rao I-PATIENT_NAME
+Rao O
+diagnosed O
+with O
+Anemia B-DIAGNOSIS
+
+Patient O
+Kavita B-PATIENT_NAME
+Desai I-PATIENT_NAME
+Desai O
+diagnosed O
+with O
+Dengue B-DIAGNOSIS
+Fever I-DIAGNOSIS
+
+Tab. O
+Ciprofloxacin B-MEDICINE_NAME
+1g B-DOSAGE
+OD B-FREQUENCY
+for O
+7 B-DURATION
+days I-DURATION
+
+Patient O
+Vijay B-PATIENT_NAME
+Rao I-PATIENT_NAME
+Rao O
+diagnosed O
+with O
+Type B-DIAGNOSIS
+2 I-DIAGNOSIS
+Diabetes I-DIAGNOSIS
+
+Patient O
+Sunita B-PATIENT_NAME
+Sharma I-PATIENT_NAME
+Sharma O
+diagnosed O
+with O
+Malaria B-DIAGNOSIS
+
+Tab. O
+Ibuprofen B-MEDICINE_NAME
+5mg B-DOSAGE
+BD B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Patient O
+Sunita B-PATIENT_NAME
+Sharma I-PATIENT_NAME
+Sharma O
+diagnosed O
+with O
+Hypothyroidism B-DIAGNOSIS
+
+Patient O
+Sunita B-PATIENT_NAME
+Sharma I-PATIENT_NAME
+Sharma O
+diagnosed O
+with O
+Malaria B-DIAGNOSIS
+
+Patient O
+Ramesh B-PATIENT_NAME
+Patil I-PATIENT_NAME
+Patil O
+diagnosed O
+with O
+Viral B-DIAGNOSIS
+Fever I-DIAGNOSIS
+
+Tab. O
+Prednisolone B-MEDICINE_NAME
+250mg B-DOSAGE
+BD B-FREQUENCY
+for O
+3 B-DURATION
+days I-DURATION
+
+Tab. O
+Paracetamol B-MEDICINE_NAME
+40mg B-DOSAGE
+SOS B-FREQUENCY
+for O
+7 B-DURATION
+days I-DURATION
+
+Tab. O
+Ondansetron B-MEDICINE_NAME
+40mg B-DOSAGE
+OD B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Tab. O
+Pantoprazole B-MEDICINE_NAME
+100mg B-DOSAGE
+BD B-FREQUENCY
+for O
+14 B-DURATION
+days I-DURATION
+
+Tab. O
+Prednisolone B-MEDICINE_NAME
+250mg B-DOSAGE
+HS B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Patient O
+Arun B-PATIENT_NAME
+Kumar I-PATIENT_NAME
+Kumar O
+diagnosed O
+with O
+Anemia B-DIAGNOSIS
+
+Patient O
+Arun B-PATIENT_NAME
+Kumar I-PATIENT_NAME
+Kumar O
+diagnosed O
+with O
+Pneumonia B-DIAGNOSIS
+
+Tab. O
+Losartan B-MEDICINE_NAME
+500mg B-DOSAGE
+QID B-FREQUENCY
+for O
+3 B-DURATION
+days I-DURATION
+
+Tab. O
+Diclofenac B-MEDICINE_NAME
+20mg B-DOSAGE
+OD B-FREQUENCY
+for O
+7 B-DURATION
+days I-DURATION
+
+Tab. O
+Ondansetron B-MEDICINE_NAME
+200mg B-DOSAGE
+BD B-FREQUENCY
+for O
+3 B-DURATION
+days I-DURATION
+
+Patient O
+Arun B-PATIENT_NAME
+Kumar I-PATIENT_NAME
+Kumar O
+diagnosed O
+with O
+Urinary B-DIAGNOSIS
+Tract I-DIAGNOSIS
+Infection I-DIAGNOSIS
+
+Patient O
+Vijay B-PATIENT_NAME
+Rao I-PATIENT_NAME
+Rao O
+diagnosed O
+with O
+Malaria B-DIAGNOSIS
+
+Patient O
+Sunita B-PATIENT_NAME
+Sharma I-PATIENT_NAME
+Sharma O
+diagnosed O
+with O
+Hypertension B-DIAGNOSIS
+
+Patient O
+Meena B-PATIENT_NAME
+Nair I-PATIENT_NAME
+Nair O
+diagnosed O
+with O
+Urinary B-DIAGNOSIS
+Tract I-DIAGNOSIS
+Infection I-DIAGNOSIS
+
+Tab. O
+Salbutamol B-MEDICINE_NAME
+100mg B-DOSAGE
+BD B-FREQUENCY
+for O
+10 B-DURATION
+days I-DURATION
+
+Tab. O
+Prednisolone B-MEDICINE_NAME
+500mg B-DOSAGE
+SOS B-FREQUENCY
+for O
+1 B-DURATION
+month I-DURATION
+
+Tab. O
+Doxycycline B-MEDICINE_NAME
+250mg B-DOSAGE
+HS B-FREQUENCY
+for O
+1 B-DURATION
+month I-DURATION
+
+Patient O
+Vijay B-PATIENT_NAME
+Rao I-PATIENT_NAME
+Rao O
+diagnosed O
+with O
+Typhoid B-DIAGNOSIS
+
+Tab. O
+Diclofenac B-MEDICINE_NAME
+40mg B-DOSAGE
+BD B-FREQUENCY
+for O
+10 B-DURATION
+days I-DURATION
+
+Tab. O
+Diclofenac B-MEDICINE_NAME
+5mg B-DOSAGE
+SOS B-FREQUENCY
+for O
+10 B-DURATION
+days I-DURATION
+
+Patient O
+Kavita B-PATIENT_NAME
+Desai I-PATIENT_NAME
+Desai O
+diagnosed O
+with O
+Hypertension B-DIAGNOSIS
+
+Tab. O
+Glimepiride B-MEDICINE_NAME
+250mg B-DOSAGE
+TDS B-FREQUENCY
+for O
+14 B-DURATION
+days I-DURATION
+
+Patient O
+Vijay B-PATIENT_NAME
+Rao I-PATIENT_NAME
+Rao O
+diagnosed O
+with O
+Anemia B-DIAGNOSIS
+
+Patient O
+Deepak B-PATIENT_NAME
+Joshi I-PATIENT_NAME
+Joshi O
+diagnosed O
+with O
+Malaria B-DIAGNOSIS
+
+Tab. O
+Doxycycline B-MEDICINE_NAME
+500mg B-DOSAGE
+BD B-FREQUENCY
+for O
+3 B-DURATION
+days I-DURATION
+
+Patient O
+Arun B-PATIENT_NAME
+Kumar I-PATIENT_NAME
+Kumar O
+diagnosed O
+with O
+Anemia B-DIAGNOSIS
+
+Patient O
+Ramesh B-PATIENT_NAME
+Patil I-PATIENT_NAME
+Patil O
+diagnosed O
+with O
+Pneumonia B-DIAGNOSIS
+
+Tab. O
+Amoxicillin B-MEDICINE_NAME
+20mg B-DOSAGE
+SOS B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Patient O
+Ramesh B-PATIENT_NAME
+Patil I-PATIENT_NAME
+Patil O
+diagnosed O
+with O
+Typhoid B-DIAGNOSIS
+
+Patient O
+Arun B-PATIENT_NAME
+Kumar I-PATIENT_NAME
+Kumar O
+diagnosed O
+with O
+Pneumonia B-DIAGNOSIS
+
+Patient O
+Ramesh B-PATIENT_NAME
+Patil I-PATIENT_NAME
+Patil O
+diagnosed O
+with O
+Hypothyroidism B-DIAGNOSIS
+
+Tab. O
+Metformin B-MEDICINE_NAME
+100mg B-DOSAGE
+BD B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Patient O
+Priya B-PATIENT_NAME
+Singh I-PATIENT_NAME
+Singh O
+diagnosed O
+with O
+Hypertension B-DIAGNOSIS
+
+Patient O
+Ramesh B-PATIENT_NAME
+Patil I-PATIENT_NAME
+Patil O
+diagnosed O
+with O
+Urinary B-DIAGNOSIS
+Tract I-DIAGNOSIS
+Infection I-DIAGNOSIS
+
+Tab. O
+Amlodipine B-MEDICINE_NAME
+10mg B-DOSAGE
+HS B-FREQUENCY
+for O
+3 B-DURATION
+days I-DURATION
+
+Patient O
+Priya B-PATIENT_NAME
+Singh I-PATIENT_NAME
+Singh O
+diagnosed O
+with O
+Viral B-DIAGNOSIS
+Fever I-DIAGNOSIS
+
+Patient O
+Vijay B-PATIENT_NAME
+Rao I-PATIENT_NAME
+Rao O
+diagnosed O
+with O
+Type B-DIAGNOSIS
+2 I-DIAGNOSIS
+Diabetes I-DIAGNOSIS
+
+Tab. O
+Prednisolone B-MEDICINE_NAME
+5mg B-DOSAGE
+OD B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Tab. O
+Pantoprazole B-MEDICINE_NAME
+10mg B-DOSAGE
+QID B-FREQUENCY
+for O
+1 B-DURATION
+month I-DURATION
+
+Patient O
+Deepak B-PATIENT_NAME
+Joshi I-PATIENT_NAME
+Joshi O
+diagnosed O
+with O
+Dengue B-DIAGNOSIS
+Fever I-DIAGNOSIS
+
+Tab. O
+Ibuprofen B-MEDICINE_NAME
+5mg B-DOSAGE
+HS B-FREQUENCY
+for O
+3 B-DURATION
+days I-DURATION
+
+Patient O
+Vijay B-PATIENT_NAME
+Rao I-PATIENT_NAME
+Rao O
+diagnosed O
+with O
+Sinusitis B-DIAGNOSIS
+
+Patient O
+Priya B-PATIENT_NAME
+Singh I-PATIENT_NAME
+Singh O
+diagnosed O
+with O
+Acute B-DIAGNOSIS
+Gastritis I-DIAGNOSIS
+
+Patient O
+Ramesh B-PATIENT_NAME
+Patil I-PATIENT_NAME
+Patil O
+diagnosed O
+with O
+Acute B-DIAGNOSIS
+Gastritis I-DIAGNOSIS
+
+Patient O
+Kavita B-PATIENT_NAME
+Desai I-PATIENT_NAME
+Desai O
+diagnosed O
+with O
+Viral B-DIAGNOSIS
+Fever I-DIAGNOSIS
+
+Tab. O
+Salbutamol B-MEDICINE_NAME
+250mg B-DOSAGE
+HS B-FREQUENCY
+for O
+3 B-DURATION
+days I-DURATION
+
+Tab. O
+Omeprazole B-MEDICINE_NAME
+100mg B-DOSAGE
+OD B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Patient O
+Deepak B-PATIENT_NAME
+Joshi I-PATIENT_NAME
+Joshi O
+diagnosed O
+with O
+Type B-DIAGNOSIS
+2 I-DIAGNOSIS
+Diabetes I-DIAGNOSIS
+
+Patient O
+Deepak B-PATIENT_NAME
+Joshi I-PATIENT_NAME
+Joshi O
+diagnosed O
+with O
+Acute B-DIAGNOSIS
+Gastritis I-DIAGNOSIS
+
+Patient O
+Deepak B-PATIENT_NAME
+Joshi I-PATIENT_NAME
+Joshi O
+diagnosed O
+with O
+Sinusitis B-DIAGNOSIS
+
+Tab. O
+Metformin B-MEDICINE_NAME
+5mg B-DOSAGE
+BD B-FREQUENCY
+for O
+3 B-DURATION
+days I-DURATION
+
+Patient O
+Arun B-PATIENT_NAME
+Kumar I-PATIENT_NAME
+Kumar O
+diagnosed O
+with O
+Urinary B-DIAGNOSIS
+Tract I-DIAGNOSIS
+Infection I-DIAGNOSIS
+
+Tab. O
+Glimepiride B-MEDICINE_NAME
+100mg B-DOSAGE
+OD B-FREQUENCY
+for O
+3 B-DURATION
+days I-DURATION
+
+Tab. O
+Amoxicillin B-MEDICINE_NAME
+5mg B-DOSAGE
+BD B-FREQUENCY
+for O
+3 B-DURATION
+days I-DURATION
+
+Tab. O
+Salbutamol B-MEDICINE_NAME
+5mg B-DOSAGE
+QID B-FREQUENCY
+for O
+7 B-DURATION
+days I-DURATION
+
+Patient O
+Arun B-PATIENT_NAME
+Kumar I-PATIENT_NAME
+Kumar O
+diagnosed O
+with O
+Pneumonia B-DIAGNOSIS
+
+Patient O
+Ramesh B-PATIENT_NAME
+Patil I-PATIENT_NAME
+Patil O
+diagnosed O
+with O
+Anemia B-DIAGNOSIS
+
+Tab. O
+Cetirizine B-MEDICINE_NAME
+40mg B-DOSAGE
+OD B-FREQUENCY
+for O
+14 B-DURATION
+days I-DURATION
+
+Tab. O
+Atorvastatin B-MEDICINE_NAME
+40mg B-DOSAGE
+TDS B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Patient O
+Priya B-PATIENT_NAME
+Singh I-PATIENT_NAME
+Singh O
+diagnosed O
+with O
+Malaria B-DIAGNOSIS
+
+Tab. O
+Amlodipine B-MEDICINE_NAME
+5mg B-DOSAGE
+BD B-FREQUENCY
+for O
+7 B-DURATION
+days I-DURATION
+
+Tab. O
+Salbutamol B-MEDICINE_NAME
+1g B-DOSAGE
+HS B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Patient O
+Kavita B-PATIENT_NAME
+Desai I-PATIENT_NAME
+Desai O
+diagnosed O
+with O
+Hypothyroidism B-DIAGNOSIS
+
+Tab. O
+Losartan B-MEDICINE_NAME
+250mg B-DOSAGE
+BD B-FREQUENCY
+for O
+14 B-DURATION
+days I-DURATION
+
+Patient O
+Arun B-PATIENT_NAME
+Kumar I-PATIENT_NAME
+Kumar O
+diagnosed O
+with O
+Typhoid B-DIAGNOSIS
+
+Tab. O
+Cefixime B-MEDICINE_NAME
+40mg B-DOSAGE
+OD B-FREQUENCY
+for O
+3 B-DURATION
+days I-DURATION
+
+Tab. O
+Ramipril B-MEDICINE_NAME
+200mg B-DOSAGE
+QID B-FREQUENCY
+for O
+3 B-DURATION
+days I-DURATION
+
+Tab. O
+Ciprofloxacin B-MEDICINE_NAME
+40mg B-DOSAGE
+OD B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Tab. O
+Salbutamol B-MEDICINE_NAME
+500mg B-DOSAGE
+SOS B-FREQUENCY
+for O
+3 B-DURATION
+days I-DURATION
+
+Tab. O
+Amlodipine B-MEDICINE_NAME
+250mg B-DOSAGE
+BD B-FREQUENCY
+for O
+1 B-DURATION
+month I-DURATION
+
+Tab. O
+Ondansetron B-MEDICINE_NAME
+200mg B-DOSAGE
+OD B-FREQUENCY
+for O
+3 B-DURATION
+days I-DURATION
+
+Patient O
+Vijay B-PATIENT_NAME
+Rao I-PATIENT_NAME
+Rao O
+diagnosed O
+with O
+Anemia B-DIAGNOSIS
+
+Patient O
+Vijay B-PATIENT_NAME
+Rao I-PATIENT_NAME
+Rao O
+diagnosed O
+with O
+Hypothyroidism B-DIAGNOSIS
+
+Patient O
+Priya B-PATIENT_NAME
+Singh I-PATIENT_NAME
+Singh O
+diagnosed O
+with O
+Pneumonia B-DIAGNOSIS
+
+Patient O
+Deepak B-PATIENT_NAME
+Joshi I-PATIENT_NAME
+Joshi O
+diagnosed O
+with O
+Anemia B-DIAGNOSIS
+
+Patient O
+Kavita B-PATIENT_NAME
+Desai I-PATIENT_NAME
+Desai O
+diagnosed O
+with O
+Hypothyroidism B-DIAGNOSIS
+
+Patient O
+Kavita B-PATIENT_NAME
+Desai I-PATIENT_NAME
+Desai O
+diagnosed O
+with O
+Type B-DIAGNOSIS
+2 I-DIAGNOSIS
+Diabetes I-DIAGNOSIS
+
+Patient O
+Arun B-PATIENT_NAME
+Kumar I-PATIENT_NAME
+Kumar O
+diagnosed O
+with O
+Urinary B-DIAGNOSIS
+Tract I-DIAGNOSIS
+Infection I-DIAGNOSIS
+
+Patient O
+Arun B-PATIENT_NAME
+Kumar I-PATIENT_NAME
+Kumar O
+diagnosed O
+with O
+Hypothyroidism B-DIAGNOSIS
+
+Patient O
+Arun B-PATIENT_NAME
+Kumar I-PATIENT_NAME
+Kumar O
+diagnosed O
+with O
+Acute B-DIAGNOSIS
+Gastritis I-DIAGNOSIS
+
+Patient O
+Ramesh B-PATIENT_NAME
+Patil I-PATIENT_NAME
+Patil O
+diagnosed O
+with O
+Pneumonia B-DIAGNOSIS
+
+Patient O
+Deepak B-PATIENT_NAME
+Joshi I-PATIENT_NAME
+Joshi O
+diagnosed O
+with O
+Tonsillitis B-DIAGNOSIS
+
+Tab. O
+Amoxicillin B-MEDICINE_NAME
+100mg B-DOSAGE
+SOS B-FREQUENCY
+for O
+1 B-DURATION
+month I-DURATION
+
+Tab. O
+Amlodipine B-MEDICINE_NAME
+1g B-DOSAGE
+HS B-FREQUENCY
+for O
+7 B-DURATION
+days I-DURATION
+
+Tab. O
+Amlodipine B-MEDICINE_NAME
+5mg B-DOSAGE
+SOS B-FREQUENCY
+for O
+10 B-DURATION
+days I-DURATION
+
+Patient O
+Vijay B-PATIENT_NAME
+Rao I-PATIENT_NAME
+Rao O
+diagnosed O
+with O
+Malaria B-DIAGNOSIS
+
+Patient O
+Meena B-PATIENT_NAME
+Nair I-PATIENT_NAME
+Nair O
+diagnosed O
+with O
+Bronchitis B-DIAGNOSIS
+
+Patient O
+Vijay B-PATIENT_NAME
+Rao I-PATIENT_NAME
+Rao O
+diagnosed O
+with O
+Hypothyroidism B-DIAGNOSIS
+
+Tab. O
+Doxycycline B-MEDICINE_NAME
+10mg B-DOSAGE
+BD B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Tab. O
+Ondansetron B-MEDICINE_NAME
+10mg B-DOSAGE
+HS B-FREQUENCY
+for O
+1 B-DURATION
+month I-DURATION
+
+Patient O
+Vijay B-PATIENT_NAME
+Rao I-PATIENT_NAME
+Rao O
+diagnosed O
+with O
+Malaria B-DIAGNOSIS
+
+Patient O
+Deepak B-PATIENT_NAME
+Joshi I-PATIENT_NAME
+Joshi O
+diagnosed O
+with O
+Hypothyroidism B-DIAGNOSIS
+
+Tab. O
+Amlodipine B-MEDICINE_NAME
+1g B-DOSAGE
+SOS B-FREQUENCY
+for O
+3 B-DURATION
+days I-DURATION
+
+Patient O
+Vijay B-PATIENT_NAME
+Rao I-PATIENT_NAME
+Rao O
+diagnosed O
+with O
+Acute B-DIAGNOSIS
+Gastritis I-DIAGNOSIS
+
+Tab. O
+Cetirizine B-MEDICINE_NAME
+10mg B-DOSAGE
+TDS B-FREQUENCY
+for O
+14 B-DURATION
+days I-DURATION
+
+Tab. O
+Amlodipine B-MEDICINE_NAME
+200mg B-DOSAGE
+SOS B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Patient O
+Priya B-PATIENT_NAME
+Singh I-PATIENT_NAME
+Singh O
+diagnosed O
+with O
+Viral B-DIAGNOSIS
+Fever I-DIAGNOSIS
+
+Patient O
+Arun B-PATIENT_NAME
+Kumar I-PATIENT_NAME
+Kumar O
+diagnosed O
+with O
+Anemia B-DIAGNOSIS
+
+Patient O
+Arun B-PATIENT_NAME
+Kumar I-PATIENT_NAME
+Kumar O
+diagnosed O
+with O
+Pneumonia B-DIAGNOSIS
+
+Patient O
+Priya B-PATIENT_NAME
+Singh I-PATIENT_NAME
+Singh O
+diagnosed O
+with O
+Anemia B-DIAGNOSIS
+
+Tab. O
+Ramipril B-MEDICINE_NAME
+40mg B-DOSAGE
+SOS B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Tab. O
+Glimepiride B-MEDICINE_NAME
+40mg B-DOSAGE
+QID B-FREQUENCY
+for O
+14 B-DURATION
+days I-DURATION
+
+Tab. O
+Metformin B-MEDICINE_NAME
+250mg B-DOSAGE
+OD B-FREQUENCY
+for O
+3 B-DURATION
+days I-DURATION
+
+Tab. O
+Amoxicillin B-MEDICINE_NAME
+40mg B-DOSAGE
+OD B-FREQUENCY
+for O
+7 B-DURATION
+days I-DURATION
+
+Patient O
+Arun B-PATIENT_NAME
+Kumar I-PATIENT_NAME
+Kumar O
+diagnosed O
+with O
+Urinary B-DIAGNOSIS
+Tract I-DIAGNOSIS
+Infection I-DIAGNOSIS
+
+Tab. O
+Diclofenac B-MEDICINE_NAME
+250mg B-DOSAGE
+TDS B-FREQUENCY
+for O
+14 B-DURATION
+days I-DURATION
+
+Patient O
+Kavita B-PATIENT_NAME
+Desai I-PATIENT_NAME
+Desai O
+diagnosed O
+with O
+Anemia B-DIAGNOSIS
+
+Patient O
+Arun B-PATIENT_NAME
+Kumar I-PATIENT_NAME
+Kumar O
+diagnosed O
+with O
+Bronchitis B-DIAGNOSIS
+
+Patient O
+Sunita B-PATIENT_NAME
+Sharma I-PATIENT_NAME
+Sharma O
+diagnosed O
+with O
+Acute B-DIAGNOSIS
+Gastritis I-DIAGNOSIS
+
+Tab. O
+Atorvastatin B-MEDICINE_NAME
+1g B-DOSAGE
+SOS B-FREQUENCY
+for O
+3 B-DURATION
+days I-DURATION
+
+Patient O
+Kavita B-PATIENT_NAME
+Desai I-PATIENT_NAME
+Desai O
+diagnosed O
+with O
+Type B-DIAGNOSIS
+2 I-DIAGNOSIS
+Diabetes I-DIAGNOSIS
+
+Patient O
+Priya B-PATIENT_NAME
+Singh I-PATIENT_NAME
+Singh O
+diagnosed O
+with O
+Pneumonia B-DIAGNOSIS
+
+Tab. O
+Atorvastatin B-MEDICINE_NAME
+100mg B-DOSAGE
+OD B-FREQUENCY
+for O
+3 B-DURATION
+days I-DURATION
+
+Tab. O
+Amlodipine B-MEDICINE_NAME
+100mg B-DOSAGE
+SOS B-FREQUENCY
+for O
+10 B-DURATION
+days I-DURATION
+
+Tab. O
+Paracetamol B-MEDICINE_NAME
+40mg B-DOSAGE
+SOS B-FREQUENCY
+for O
+14 B-DURATION
+days I-DURATION
+
+Tab. O
+Losartan B-MEDICINE_NAME
+500mg B-DOSAGE
+SOS B-FREQUENCY
+for O
+1 B-DURATION
+month I-DURATION
+
+Patient O
+Sunita B-PATIENT_NAME
+Sharma I-PATIENT_NAME
+Sharma O
+diagnosed O
+with O
+Bronchitis B-DIAGNOSIS
+
+Patient O
+Arun B-PATIENT_NAME
+Kumar I-PATIENT_NAME
+Kumar O
+diagnosed O
+with O
+Hypertension B-DIAGNOSIS
+
+Tab. O
+Pantoprazole B-MEDICINE_NAME
+20mg B-DOSAGE
+HS B-FREQUENCY
+for O
+10 B-DURATION
+days I-DURATION
+
+Tab. O
+Metformin B-MEDICINE_NAME
+10mg B-DOSAGE
+HS B-FREQUENCY
+for O
+7 B-DURATION
+days I-DURATION
+
+Patient O
+Sunita B-PATIENT_NAME
+Sharma I-PATIENT_NAME
+Sharma O
+diagnosed O
+with O
+Pneumonia B-DIAGNOSIS
+
+Patient O
+Kavita B-PATIENT_NAME
+Desai I-PATIENT_NAME
+Desai O
+diagnosed O
+with O
+Anemia B-DIAGNOSIS
+
+Tab. O
+Pantoprazole B-MEDICINE_NAME
+5mg B-DOSAGE
+BD B-FREQUENCY
+for O
+7 B-DURATION
+days I-DURATION
+
+Patient O
+Deepak B-PATIENT_NAME
+Joshi I-PATIENT_NAME
+Joshi O
+diagnosed O
+with O
+Urinary B-DIAGNOSIS
+Tract I-DIAGNOSIS
+Infection I-DIAGNOSIS
+
+Tab. O
+Glimepiride B-MEDICINE_NAME
+40mg B-DOSAGE
+BD B-FREQUENCY
+for O
+3 B-DURATION
+days I-DURATION
+
+Tab. O
+Diclofenac B-MEDICINE_NAME
+20mg B-DOSAGE
+SOS B-FREQUENCY
+for O
+10 B-DURATION
+days I-DURATION
+
+Patient O
+Deepak B-PATIENT_NAME
+Joshi I-PATIENT_NAME
+Joshi O
+diagnosed O
+with O
+Viral B-DIAGNOSIS
+Fever I-DIAGNOSIS
+
+Patient O
+Sunita B-PATIENT_NAME
+Sharma I-PATIENT_NAME
+Sharma O
+diagnosed O
+with O
+Hypothyroidism B-DIAGNOSIS
+
+Patient O
+Ramesh B-PATIENT_NAME
+Patil I-PATIENT_NAME
+Patil O
+diagnosed O
+with O
+Typhoid B-DIAGNOSIS
+
+Tab. O
+Pantoprazole B-MEDICINE_NAME
+500mg B-DOSAGE
+HS B-FREQUENCY
+for O
+14 B-DURATION
+days I-DURATION
+
+Tab. O
+Diclofenac B-MEDICINE_NAME
+5mg B-DOSAGE
+BD B-FREQUENCY
+for O
+10 B-DURATION
+days I-DURATION
+
+Patient O
+Ramesh B-PATIENT_NAME
+Patil I-PATIENT_NAME
+Patil O
+diagnosed O
+with O
+Dengue B-DIAGNOSIS
+Fever I-DIAGNOSIS
+
+Patient O
+Vijay B-PATIENT_NAME
+Rao I-PATIENT_NAME
+Rao O
+diagnosed O
+with O
+Pneumonia B-DIAGNOSIS
+
+Patient O
+Vijay B-PATIENT_NAME
+Rao I-PATIENT_NAME
+Rao O
+diagnosed O
+with O
+Bronchitis B-DIAGNOSIS
+
+Patient O
+Meena B-PATIENT_NAME
+Nair I-PATIENT_NAME
+Nair O
+diagnosed O
+with O
+Pneumonia B-DIAGNOSIS
+
+Tab. O
+Prednisolone B-MEDICINE_NAME
+20mg B-DOSAGE
+QID B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Patient O
+Deepak B-PATIENT_NAME
+Joshi I-PATIENT_NAME
+Joshi O
+diagnosed O
+with O
+Acute B-DIAGNOSIS
+Gastritis I-DIAGNOSIS
+
+Tab. O
+Losartan B-MEDICINE_NAME
+250mg B-DOSAGE
+HS B-FREQUENCY
+for O
+7 B-DURATION
+days I-DURATION
+
+Tab. O
+Paracetamol B-MEDICINE_NAME
+1g B-DOSAGE
+OD B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Tab. O
+Omeprazole B-MEDICINE_NAME
+40mg B-DOSAGE
+OD B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Tab. O
+Azithromycin B-MEDICINE_NAME
+250mg B-DOSAGE
+OD B-FREQUENCY
+for O
+1 B-DURATION
+month I-DURATION
+
+Tab. O
+Ciprofloxacin B-MEDICINE_NAME
+250mg B-DOSAGE
+BD B-FREQUENCY
+for O
+14 B-DURATION
+days I-DURATION
+
+Patient O
+Meena B-PATIENT_NAME
+Nair I-PATIENT_NAME
+Nair O
+diagnosed O
+with O
+Hypothyroidism B-DIAGNOSIS
+
+Tab. O
+Pantoprazole B-MEDICINE_NAME
+250mg B-DOSAGE
+OD B-FREQUENCY
+for O
+1 B-DURATION
+month I-DURATION
+
+Tab. O
+Cetirizine B-MEDICINE_NAME
+250mg B-DOSAGE
+BD B-FREQUENCY
+for O
+3 B-DURATION
+days I-DURATION
+
+Tab. O
+Paracetamol B-MEDICINE_NAME
+5mg B-DOSAGE
+HS B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Tab. O
+Amoxicillin B-MEDICINE_NAME
+250mg B-DOSAGE
+SOS B-FREQUENCY
+for O
+7 B-DURATION
+days I-DURATION
+
+Tab. O
+Glimepiride B-MEDICINE_NAME
+10mg B-DOSAGE
+HS B-FREQUENCY
+for O
+10 B-DURATION
+days I-DURATION
+
+Tab. O
+Glimepiride B-MEDICINE_NAME
+20mg B-DOSAGE
+HS B-FREQUENCY
+for O
+1 B-DURATION
+month I-DURATION
+
+Tab. O
+Losartan B-MEDICINE_NAME
+1g B-DOSAGE
+QID B-FREQUENCY
+for O
+3 B-DURATION
+days I-DURATION
+
+Tab. O
+Omeprazole B-MEDICINE_NAME
+10mg B-DOSAGE
+TDS B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Tab. O
+Metformin B-MEDICINE_NAME
+250mg B-DOSAGE
+BD B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Patient O
+Priya B-PATIENT_NAME
+Singh I-PATIENT_NAME
+Singh O
+diagnosed O
+with O
+Tonsillitis B-DIAGNOSIS
+
+Tab. O
+Amlodipine B-MEDICINE_NAME
+20mg B-DOSAGE
+QID B-FREQUENCY
+for O
+10 B-DURATION
+days I-DURATION
+
+Patient O
+Vijay B-PATIENT_NAME
+Rao I-PATIENT_NAME
+Rao O
+diagnosed O
+with O
+Urinary B-DIAGNOSIS
+Tract I-DIAGNOSIS
+Infection I-DIAGNOSIS
+
+Patient O
+Meena B-PATIENT_NAME
+Nair I-PATIENT_NAME
+Nair O
+diagnosed O
+with O
+Sinusitis B-DIAGNOSIS
+
+Tab. O
+Doxycycline B-MEDICINE_NAME
+500mg B-DOSAGE
+HS B-FREQUENCY
+for O
+1 B-DURATION
+month I-DURATION
+
+Patient O
+Arun B-PATIENT_NAME
+Kumar I-PATIENT_NAME
+Kumar O
+diagnosed O
+with O
+Acute B-DIAGNOSIS
+Gastritis I-DIAGNOSIS
+
+Tab. O
+Amoxicillin B-MEDICINE_NAME
+250mg B-DOSAGE
+SOS B-FREQUENCY
+for O
+7 B-DURATION
+days I-DURATION
+
+Tab. O
+Pantoprazole B-MEDICINE_NAME
+5mg B-DOSAGE
+OD B-FREQUENCY
+for O
+1 B-DURATION
+month I-DURATION
+
+Patient O
+Sunita B-PATIENT_NAME
+Sharma I-PATIENT_NAME
+Sharma O
+diagnosed O
+with O
+Viral B-DIAGNOSIS
+Fever I-DIAGNOSIS
+
+Patient O
+Meena B-PATIENT_NAME
+Nair I-PATIENT_NAME
+Nair O
+diagnosed O
+with O
+Anemia B-DIAGNOSIS
+
+Tab. O
+Ondansetron B-MEDICINE_NAME
+20mg B-DOSAGE
+HS B-FREQUENCY
+for O
+7 B-DURATION
+days I-DURATION
+
+Patient O
+Kavita B-PATIENT_NAME
+Desai I-PATIENT_NAME
+Desai O
+diagnosed O
+with O
+Bronchitis B-DIAGNOSIS
+
+Patient O
+Deepak B-PATIENT_NAME
+Joshi I-PATIENT_NAME
+Joshi O
+diagnosed O
+with O
+Malaria B-DIAGNOSIS
+
+Patient O
+Priya B-PATIENT_NAME
+Singh I-PATIENT_NAME
+Singh O
+diagnosed O
+with O
+Bronchitis B-DIAGNOSIS
+
+Tab. O
+Ondansetron B-MEDICINE_NAME
+1g B-DOSAGE
+OD B-FREQUENCY
+for O
+1 B-DURATION
+month I-DURATION
+
+Patient O
+Kavita B-PATIENT_NAME
+Desai I-PATIENT_NAME
+Desai O
+diagnosed O
+with O
+Dengue B-DIAGNOSIS
+Fever I-DIAGNOSIS
+
+Patient O
+Vijay B-PATIENT_NAME
+Rao I-PATIENT_NAME
+Rao O
+diagnosed O
+with O
+Bronchitis B-DIAGNOSIS
+
+Patient O
+Kavita B-PATIENT_NAME
+Desai I-PATIENT_NAME
+Desai O
+diagnosed O
+with O
+Sinusitis B-DIAGNOSIS
+
+Patient O
+Arun B-PATIENT_NAME
+Kumar I-PATIENT_NAME
+Kumar O
+diagnosed O
+with O
+Type B-DIAGNOSIS
+2 I-DIAGNOSIS
+Diabetes I-DIAGNOSIS
+
+Patient O
+Ramesh B-PATIENT_NAME
+Patil I-PATIENT_NAME
+Patil O
+diagnosed O
+with O
+Dengue B-DIAGNOSIS
+Fever I-DIAGNOSIS
+
+Tab. O
+Ciprofloxacin B-MEDICINE_NAME
+5mg B-DOSAGE
+HS B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Patient O
+Ramesh B-PATIENT_NAME
+Patil I-PATIENT_NAME
+Patil O
+diagnosed O
+with O
+Bronchitis B-DIAGNOSIS
+
+Patient O
+Arun B-PATIENT_NAME
+Kumar I-PATIENT_NAME
+Kumar O
+diagnosed O
+with O
+Tonsillitis B-DIAGNOSIS
+
+Tab. O
+Ondansetron B-MEDICINE_NAME
+1g B-DOSAGE
+BD B-FREQUENCY
+for O
+3 B-DURATION
+days I-DURATION
+
+Tab. O
+Amlodipine B-MEDICINE_NAME
+100mg B-DOSAGE
+BD B-FREQUENCY
+for O
+7 B-DURATION
+days I-DURATION
+
+Patient O
+Ramesh B-PATIENT_NAME
+Patil I-PATIENT_NAME
+Patil O
+diagnosed O
+with O
+Urinary B-DIAGNOSIS
+Tract I-DIAGNOSIS
+Infection I-DIAGNOSIS
+
+Patient O
+Arun B-PATIENT_NAME
+Kumar I-PATIENT_NAME
+Kumar O
+diagnosed O
+with O
+Dengue B-DIAGNOSIS
+Fever I-DIAGNOSIS
+
+Patient O
+Deepak B-PATIENT_NAME
+Joshi I-PATIENT_NAME
+Joshi O
+diagnosed O
+with O
+Sinusitis B-DIAGNOSIS
+
+Tab. O
+Cetirizine B-MEDICINE_NAME
+100mg B-DOSAGE
+QID B-FREQUENCY
+for O
+1 B-DURATION
+month I-DURATION
+
+Patient O
+Vijay B-PATIENT_NAME
+Rao I-PATIENT_NAME
+Rao O
+diagnosed O
+with O
+Dengue B-DIAGNOSIS
+Fever I-DIAGNOSIS
+
+Tab. O
+Glimepiride B-MEDICINE_NAME
+500mg B-DOSAGE
+TDS B-FREQUENCY
+for O
+3 B-DURATION
+days I-DURATION
+
+Tab. O
+Ciprofloxacin B-MEDICINE_NAME
+100mg B-DOSAGE
+QID B-FREQUENCY
+for O
+7 B-DURATION
+days I-DURATION
+
+Tab. O
+Salbutamol B-MEDICINE_NAME
+200mg B-DOSAGE
+SOS B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Patient O
+Ramesh B-PATIENT_NAME
+Patil I-PATIENT_NAME
+Patil O
+diagnosed O
+with O
+Malaria B-DIAGNOSIS
+
+Patient O
+Arun B-PATIENT_NAME
+Kumar I-PATIENT_NAME
+Kumar O
+diagnosed O
+with O
+Hypothyroidism B-DIAGNOSIS
+
+Patient O
+Deepak B-PATIENT_NAME
+Joshi I-PATIENT_NAME
+Joshi O
+diagnosed O
+with O
+Hypothyroidism B-DIAGNOSIS
+
+Patient O
+Sunita B-PATIENT_NAME
+Sharma I-PATIENT_NAME
+Sharma O
+diagnosed O
+with O
+Anemia B-DIAGNOSIS
+
+Tab. O
+Doxycycline B-MEDICINE_NAME
+20mg B-DOSAGE
+TDS B-FREQUENCY
+for O
+1 B-DURATION
+month I-DURATION
+
+Patient O
+Arun B-PATIENT_NAME
+Kumar I-PATIENT_NAME
+Kumar O
+diagnosed O
+with O
+Tonsillitis B-DIAGNOSIS
+
+Patient O
+Kavita B-PATIENT_NAME
+Desai I-PATIENT_NAME
+Desai O
+diagnosed O
+with O
+Anemia B-DIAGNOSIS
+
+Tab. O
+Paracetamol B-MEDICINE_NAME
+100mg B-DOSAGE
+TDS B-FREQUENCY
+for O
+10 B-DURATION
+days I-DURATION
+
+Tab. O
+Cetirizine B-MEDICINE_NAME
+40mg B-DOSAGE
+HS B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Patient O
+Kavita B-PATIENT_NAME
+Desai I-PATIENT_NAME
+Desai O
+diagnosed O
+with O
+Hypothyroidism B-DIAGNOSIS
+
+Patient O
+Meena B-PATIENT_NAME
+Nair I-PATIENT_NAME
+Nair O
+diagnosed O
+with O
+Typhoid B-DIAGNOSIS
+
+Patient O
+Priya B-PATIENT_NAME
+Singh I-PATIENT_NAME
+Singh O
+diagnosed O
+with O
+Pneumonia B-DIAGNOSIS
+
+Tab. O
+Ciprofloxacin B-MEDICINE_NAME
+10mg B-DOSAGE
+HS B-FREQUENCY
+for O
+14 B-DURATION
+days I-DURATION
+
+Tab. O
+Salbutamol B-MEDICINE_NAME
+100mg B-DOSAGE
+QID B-FREQUENCY
+for O
+10 B-DURATION
+days I-DURATION
+
+Tab. O
+Ciprofloxacin B-MEDICINE_NAME
+200mg B-DOSAGE
+OD B-FREQUENCY
+for O
+10 B-DURATION
+days I-DURATION
+
+Tab. O
+Pantoprazole B-MEDICINE_NAME
+40mg B-DOSAGE
+OD B-FREQUENCY
+for O
+14 B-DURATION
+days I-DURATION
+
+Patient O
+Deepak B-PATIENT_NAME
+Joshi I-PATIENT_NAME
+Joshi O
+diagnosed O
+with O
+Malaria B-DIAGNOSIS
+
+Tab. O
+Losartan B-MEDICINE_NAME
+5mg B-DOSAGE
+BD B-FREQUENCY
+for O
+7 B-DURATION
+days I-DURATION
+
+Tab. O
+Prednisolone B-MEDICINE_NAME
+500mg B-DOSAGE
+SOS B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Tab. O
+Paracetamol B-MEDICINE_NAME
+40mg B-DOSAGE
+TDS B-FREQUENCY
+for O
+14 B-DURATION
+days I-DURATION
+
+Patient O
+Arun B-PATIENT_NAME
+Kumar I-PATIENT_NAME
+Kumar O
+diagnosed O
+with O
+Typhoid B-DIAGNOSIS
+
+Patient O
+Kavita B-PATIENT_NAME
+Desai I-PATIENT_NAME
+Desai O
+diagnosed O
+with O
+Bronchitis B-DIAGNOSIS
+
+Patient O
+Priya B-PATIENT_NAME
+Singh I-PATIENT_NAME
+Singh O
+diagnosed O
+with O
+Anemia B-DIAGNOSIS
+
+Tab. O
+Pantoprazole B-MEDICINE_NAME
+250mg B-DOSAGE
+TDS B-FREQUENCY
+for O
+1 B-DURATION
+month I-DURATION
+
+Tab. O
+Cetirizine B-MEDICINE_NAME
+200mg B-DOSAGE
+QID B-FREQUENCY
+for O
+7 B-DURATION
+days I-DURATION
+
+Tab. O
+Amlodipine B-MEDICINE_NAME
+5mg B-DOSAGE
+HS B-FREQUENCY
+for O
+3 B-DURATION
+days I-DURATION
+
+Patient O
+Priya B-PATIENT_NAME
+Singh I-PATIENT_NAME
+Singh O
+diagnosed O
+with O
+Acute B-DIAGNOSIS
+Gastritis I-DIAGNOSIS
+
+Tab. O
+Diclofenac B-MEDICINE_NAME
+500mg B-DOSAGE
+OD B-FREQUENCY
+for O
+1 B-DURATION
+month I-DURATION
+
+Patient O
+Meena B-PATIENT_NAME
+Nair I-PATIENT_NAME
+Nair O
+diagnosed O
+with O
+Hypertension B-DIAGNOSIS
+
+Patient O
+Arun B-PATIENT_NAME
+Kumar I-PATIENT_NAME
+Kumar O
+diagnosed O
+with O
+Tonsillitis B-DIAGNOSIS
+
+Patient O
+Vijay B-PATIENT_NAME
+Rao I-PATIENT_NAME
+Rao O
+diagnosed O
+with O
+Hypothyroidism B-DIAGNOSIS
+
+Tab. O
+Pantoprazole B-MEDICINE_NAME
+100mg B-DOSAGE
+TDS B-FREQUENCY
+for O
+3 B-DURATION
+days I-DURATION
+
+Patient O
+Deepak B-PATIENT_NAME
+Joshi I-PATIENT_NAME
+Joshi O
+diagnosed O
+with O
+Malaria B-DIAGNOSIS
+
+Tab. O
+Pantoprazole B-MEDICINE_NAME
+100mg B-DOSAGE
+TDS B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Tab. O
+Ciprofloxacin B-MEDICINE_NAME
+500mg B-DOSAGE
+OD B-FREQUENCY
+for O
+3 B-DURATION
+days I-DURATION
+
+Patient O
+Kavita B-PATIENT_NAME
+Desai I-PATIENT_NAME
+Desai O
+diagnosed O
+with O
+Typhoid B-DIAGNOSIS
+
+Patient O
+Meena B-PATIENT_NAME
+Nair I-PATIENT_NAME
+Nair O
+diagnosed O
+with O
+Type B-DIAGNOSIS
+2 I-DIAGNOSIS
+Diabetes I-DIAGNOSIS
+
+Patient O
+Ramesh B-PATIENT_NAME
+Patil I-PATIENT_NAME
+Patil O
+diagnosed O
+with O
+Typhoid B-DIAGNOSIS
+
+Patient O
+Meena B-PATIENT_NAME
+Nair I-PATIENT_NAME
+Nair O
+diagnosed O
+with O
+Hypothyroidism B-DIAGNOSIS
+
+Patient O
+Meena B-PATIENT_NAME
+Nair I-PATIENT_NAME
+Nair O
+diagnosed O
+with O
+Type B-DIAGNOSIS
+2 I-DIAGNOSIS
+Diabetes I-DIAGNOSIS
+
+Tab. O
+Diclofenac B-MEDICINE_NAME
+40mg B-DOSAGE
+QID B-FREQUENCY
+for O
+14 B-DURATION
+days I-DURATION
+
+Tab. O
+Doxycycline B-MEDICINE_NAME
+500mg B-DOSAGE
+HS B-FREQUENCY
+for O
+1 B-DURATION
+month I-DURATION
+
+Tab. O
+Glimepiride B-MEDICINE_NAME
+250mg B-DOSAGE
+OD B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Tab. O
+Metformin B-MEDICINE_NAME
+200mg B-DOSAGE
+BD B-FREQUENCY
+for O
+1 B-DURATION
+month I-DURATION
+
+Tab. O
+Azithromycin B-MEDICINE_NAME
+40mg B-DOSAGE
+TDS B-FREQUENCY
+for O
+7 B-DURATION
+days I-DURATION
+
+Tab. O
+Ramipril B-MEDICINE_NAME
+40mg B-DOSAGE
+OD B-FREQUENCY
+for O
+10 B-DURATION
+days I-DURATION
+
+Patient O
+Ramesh B-PATIENT_NAME
+Patil I-PATIENT_NAME
+Patil O
+diagnosed O
+with O
+Typhoid B-DIAGNOSIS
+
+Patient O
+Vijay B-PATIENT_NAME
+Rao I-PATIENT_NAME
+Rao O
+diagnosed O
+with O
+Hypothyroidism B-DIAGNOSIS
+
+Tab. O
+Cefixime B-MEDICINE_NAME
+250mg B-DOSAGE
+BD B-FREQUENCY
+for O
+10 B-DURATION
+days I-DURATION
+
+Tab. O
+Metformin B-MEDICINE_NAME
+20mg B-DOSAGE
+BD B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Tab. O
+Cefixime B-MEDICINE_NAME
+500mg B-DOSAGE
+OD B-FREQUENCY
+for O
+1 B-DURATION
+month I-DURATION
+
+Tab. O
+Glimepiride B-MEDICINE_NAME
+500mg B-DOSAGE
+OD B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Tab. O
+Atorvastatin B-MEDICINE_NAME
+1g B-DOSAGE
+QID B-FREQUENCY
+for O
+7 B-DURATION
+days I-DURATION
+
+Patient O
+Vijay B-PATIENT_NAME
+Rao I-PATIENT_NAME
+Rao O
+diagnosed O
+with O
+Dengue B-DIAGNOSIS
+Fever I-DIAGNOSIS
+
+Tab. O
+Doxycycline B-MEDICINE_NAME
+20mg B-DOSAGE
+SOS B-FREQUENCY
+for O
+3 B-DURATION
+days I-DURATION
+
+Patient O
+Sunita B-PATIENT_NAME
+Sharma I-PATIENT_NAME
+Sharma O
+diagnosed O
+with O
+Typhoid B-DIAGNOSIS
+
+Tab. O
+Cetirizine B-MEDICINE_NAME
+500mg B-DOSAGE
+BD B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Patient O
+Meena B-PATIENT_NAME
+Nair I-PATIENT_NAME
+Nair O
+diagnosed O
+with O
+Viral B-DIAGNOSIS
+Fever I-DIAGNOSIS
+
+Tab. O
+Ondansetron B-MEDICINE_NAME
+40mg B-DOSAGE
+QID B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Patient O
+Arun B-PATIENT_NAME
+Kumar I-PATIENT_NAME
+Kumar O
+diagnosed O
+with O
+Urinary B-DIAGNOSIS
+Tract I-DIAGNOSIS
+Infection I-DIAGNOSIS
+
+Tab. O
+Pantoprazole B-MEDICINE_NAME
+20mg B-DOSAGE
+TDS B-FREQUENCY
+for O
+14 B-DURATION
+days I-DURATION
+
+Patient O
+Vijay B-PATIENT_NAME
+Rao I-PATIENT_NAME
+Rao O
+diagnosed O
+with O
+Typhoid B-DIAGNOSIS
+
+Tab. O
+Cetirizine B-MEDICINE_NAME
+20mg B-DOSAGE
+TDS B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Patient O
+Vijay B-PATIENT_NAME
+Rao I-PATIENT_NAME
+Rao O
+diagnosed O
+with O
+Acute B-DIAGNOSIS
+Gastritis I-DIAGNOSIS
+
+Tab. O
+Diclofenac B-MEDICINE_NAME
+100mg B-DOSAGE
+OD B-FREQUENCY
+for O
+10 B-DURATION
+days I-DURATION
+
+Patient O
+Arun B-PATIENT_NAME
+Kumar I-PATIENT_NAME
+Kumar O
+diagnosed O
+with O
+Urinary B-DIAGNOSIS
+Tract I-DIAGNOSIS
+Infection I-DIAGNOSIS
+
+Tab. O
+Amoxicillin B-MEDICINE_NAME
+5mg B-DOSAGE
+OD B-FREQUENCY
+for O
+1 B-DURATION
+month I-DURATION
+
+Tab. O
+Cetirizine B-MEDICINE_NAME
+20mg B-DOSAGE
+HS B-FREQUENCY
+for O
+1 B-DURATION
+month I-DURATION
+
+Tab. O
+Ondansetron B-MEDICINE_NAME
+20mg B-DOSAGE
+TDS B-FREQUENCY
+for O
+10 B-DURATION
+days I-DURATION
+
+Tab. O
+Salbutamol B-MEDICINE_NAME
+20mg B-DOSAGE
+BD B-FREQUENCY
+for O
+14 B-DURATION
+days I-DURATION
+
+Tab. O
+Diclofenac B-MEDICINE_NAME
+500mg B-DOSAGE
+BD B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Patient O
+Kavita B-PATIENT_NAME
+Desai I-PATIENT_NAME
+Desai O
+diagnosed O
+with O
+Urinary B-DIAGNOSIS
+Tract I-DIAGNOSIS
+Infection I-DIAGNOSIS
+
+Patient O
+Meena B-PATIENT_NAME
+Nair I-PATIENT_NAME
+Nair O
+diagnosed O
+with O
+Pneumonia B-DIAGNOSIS
+
+Patient O
+Arun B-PATIENT_NAME
+Kumar I-PATIENT_NAME
+Kumar O
+diagnosed O
+with O
+Dengue B-DIAGNOSIS
+Fever I-DIAGNOSIS
+
+Patient O
+Deepak B-PATIENT_NAME
+Joshi I-PATIENT_NAME
+Joshi O
+diagnosed O
+with O
+Malaria B-DIAGNOSIS
+
+Tab. O
+Azithromycin B-MEDICINE_NAME
+250mg B-DOSAGE
+OD B-FREQUENCY
+for O
+3 B-DURATION
+days I-DURATION
+
+Tab. O
+Paracetamol B-MEDICINE_NAME
+20mg B-DOSAGE
+OD B-FREQUENCY
+for O
+7 B-DURATION
+days I-DURATION
+
+Patient O
+Arun B-PATIENT_NAME
+Kumar I-PATIENT_NAME
+Kumar O
+diagnosed O
+with O
+Dengue B-DIAGNOSIS
+Fever I-DIAGNOSIS
+
+Tab. O
+Amoxicillin B-MEDICINE_NAME
+40mg B-DOSAGE
+BD B-FREQUENCY
+for O
+1 B-DURATION
+month I-DURATION
+
+Tab. O
+Ramipril B-MEDICINE_NAME
+40mg B-DOSAGE
+OD B-FREQUENCY
+for O
+7 B-DURATION
+days I-DURATION
+
+Patient O
+Ramesh B-PATIENT_NAME
+Patil I-PATIENT_NAME
+Patil O
+diagnosed O
+with O
+Hypothyroidism B-DIAGNOSIS
+
+Patient O
+Ramesh B-PATIENT_NAME
+Patil I-PATIENT_NAME
+Patil O
+diagnosed O
+with O
+Tonsillitis B-DIAGNOSIS
+
+Tab. O
+Diclofenac B-MEDICINE_NAME
+1g B-DOSAGE
+TDS B-FREQUENCY
+for O
+10 B-DURATION
+days I-DURATION
+
+Tab. O
+Metformin B-MEDICINE_NAME
+500mg B-DOSAGE
+SOS B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Tab. O
+Metformin B-MEDICINE_NAME
+250mg B-DOSAGE
+HS B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Patient O
+Deepak B-PATIENT_NAME
+Joshi I-PATIENT_NAME
+Joshi O
+diagnosed O
+with O
+Sinusitis B-DIAGNOSIS
+
+Patient O
+Kavita B-PATIENT_NAME
+Desai I-PATIENT_NAME
+Desai O
+diagnosed O
+with O
+Viral B-DIAGNOSIS
+Fever I-DIAGNOSIS
+
+Tab. O
+Atorvastatin B-MEDICINE_NAME
+10mg B-DOSAGE
+OD B-FREQUENCY
+for O
+10 B-DURATION
+days I-DURATION
+
+Patient O
+Ramesh B-PATIENT_NAME
+Patil I-PATIENT_NAME
+Patil O
+diagnosed O
+with O
+Viral B-DIAGNOSIS
+Fever I-DIAGNOSIS
+
+Patient O
+Kavita B-PATIENT_NAME
+Desai I-PATIENT_NAME
+Desai O
+diagnosed O
+with O
+Dengue B-DIAGNOSIS
+Fever I-DIAGNOSIS
+
+Patient O
+Ramesh B-PATIENT_NAME
+Patil I-PATIENT_NAME
+Patil O
+diagnosed O
+with O
+Type B-DIAGNOSIS
+2 I-DIAGNOSIS
+Diabetes I-DIAGNOSIS
+
+Tab. O
+Azithromycin B-MEDICINE_NAME
+20mg B-DOSAGE
+HS B-FREQUENCY
+for O
+7 B-DURATION
+days I-DURATION
+
+Patient O
+Deepak B-PATIENT_NAME
+Joshi I-PATIENT_NAME
+Joshi O
+diagnosed O
+with O
+Urinary B-DIAGNOSIS
+Tract I-DIAGNOSIS
+Infection I-DIAGNOSIS
+
+Tab. O
+Ibuprofen B-MEDICINE_NAME
+10mg B-DOSAGE
+BD B-FREQUENCY
+for O
+1 B-DURATION
+month I-DURATION
+
+Patient O
+Ramesh B-PATIENT_NAME
+Patil I-PATIENT_NAME
+Patil O
+diagnosed O
+with O
+Tonsillitis B-DIAGNOSIS
+
+Tab. O
+Ondansetron B-MEDICINE_NAME
+5mg B-DOSAGE
+QID B-FREQUENCY
+for O
+1 B-DURATION
+month I-DURATION
+
+Patient O
+Priya B-PATIENT_NAME
+Singh I-PATIENT_NAME
+Singh O
+diagnosed O
+with O
+Tonsillitis B-DIAGNOSIS
+
+Tab. O
+Diclofenac B-MEDICINE_NAME
+40mg B-DOSAGE
+OD B-FREQUENCY
+for O
+14 B-DURATION
+days I-DURATION
+
+Patient O
+Kavita B-PATIENT_NAME
+Desai I-PATIENT_NAME
+Desai O
+diagnosed O
+with O
+Malaria B-DIAGNOSIS
+
+Tab. O
+Prednisolone B-MEDICINE_NAME
+40mg B-DOSAGE
+HS B-FREQUENCY
+for O
+14 B-DURATION
+days I-DURATION
+
+Tab. O
+Ciprofloxacin B-MEDICINE_NAME
+40mg B-DOSAGE
+SOS B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Patient O
+Kavita B-PATIENT_NAME
+Desai I-PATIENT_NAME
+Desai O
+diagnosed O
+with O
+Bronchitis B-DIAGNOSIS
+
+Patient O
+Deepak B-PATIENT_NAME
+Joshi I-PATIENT_NAME
+Joshi O
+diagnosed O
+with O
+Tonsillitis B-DIAGNOSIS
+
+Tab. O
+Glimepiride B-MEDICINE_NAME
+200mg B-DOSAGE
+SOS B-FREQUENCY
+for O
+7 B-DURATION
+days I-DURATION
+
+Patient O
+Deepak B-PATIENT_NAME
+Joshi I-PATIENT_NAME
+Joshi O
+diagnosed O
+with O
+Hypertension B-DIAGNOSIS
+
+Tab. O
+Ciprofloxacin B-MEDICINE_NAME
+40mg B-DOSAGE
+HS B-FREQUENCY
+for O
+10 B-DURATION
+days I-DURATION
+
+Patient O
+Arun B-PATIENT_NAME
+Kumar I-PATIENT_NAME
+Kumar O
+diagnosed O
+with O
+Tonsillitis B-DIAGNOSIS
+
+Tab. O
+Ciprofloxacin B-MEDICINE_NAME
+200mg B-DOSAGE
+HS B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Patient O
+Arun B-PATIENT_NAME
+Kumar I-PATIENT_NAME
+Kumar O
+diagnosed O
+with O
+Typhoid B-DIAGNOSIS
+
+Tab. O
+Cetirizine B-MEDICINE_NAME
+5mg B-DOSAGE
+OD B-FREQUENCY
+for O
+10 B-DURATION
+days I-DURATION
+
+Tab. O
+Doxycycline B-MEDICINE_NAME
+200mg B-DOSAGE
+OD B-FREQUENCY
+for O
+14 B-DURATION
+days I-DURATION
+
+Tab. O
+Ondansetron B-MEDICINE_NAME
+500mg B-DOSAGE
+TDS B-FREQUENCY
+for O
+14 B-DURATION
+days I-DURATION
+
+Tab. O
+Salbutamol B-MEDICINE_NAME
+40mg B-DOSAGE
+SOS B-FREQUENCY
+for O
+3 B-DURATION
+days I-DURATION
+
+Patient O
+Meena B-PATIENT_NAME
+Nair I-PATIENT_NAME
+Nair O
+diagnosed O
+with O
+Pneumonia B-DIAGNOSIS
+
+Patient O
+Vijay B-PATIENT_NAME
+Rao I-PATIENT_NAME
+Rao O
+diagnosed O
+with O
+Typhoid B-DIAGNOSIS
+
+Tab. O
+Ondansetron B-MEDICINE_NAME
+40mg B-DOSAGE
+HS B-FREQUENCY
+for O
+10 B-DURATION
+days I-DURATION
+
+Tab. O
+Salbutamol B-MEDICINE_NAME
+100mg B-DOSAGE
+BD B-FREQUENCY
+for O
+1 B-DURATION
+month I-DURATION
+
+Tab. O
+Paracetamol B-MEDICINE_NAME
+200mg B-DOSAGE
+OD B-FREQUENCY
+for O
+10 B-DURATION
+days I-DURATION
+
+Tab. O
+Azithromycin B-MEDICINE_NAME
+20mg B-DOSAGE
+BD B-FREQUENCY
+for O
+10 B-DURATION
+days I-DURATION
+
+Patient O
+Priya B-PATIENT_NAME
+Singh I-PATIENT_NAME
+Singh O
+diagnosed O
+with O
+Sinusitis B-DIAGNOSIS
+
+Tab. O
+Cetirizine B-MEDICINE_NAME
+500mg B-DOSAGE
+OD B-FREQUENCY
+for O
+3 B-DURATION
+days I-DURATION
+
+Patient O
+Priya B-PATIENT_NAME
+Singh I-PATIENT_NAME
+Singh O
+diagnosed O
+with O
+Hypertension B-DIAGNOSIS
+
+Tab. O
+Azithromycin B-MEDICINE_NAME
+250mg B-DOSAGE
+TDS B-FREQUENCY
+for O
+10 B-DURATION
+days I-DURATION
+
+Tab. O
+Ramipril B-MEDICINE_NAME
+40mg B-DOSAGE
+HS B-FREQUENCY
+for O
+10 B-DURATION
+days I-DURATION
+
+Tab. O
+Pantoprazole B-MEDICINE_NAME
+20mg B-DOSAGE
+TDS B-FREQUENCY
+for O
+10 B-DURATION
+days I-DURATION
+
+Patient O
+Deepak B-PATIENT_NAME
+Joshi I-PATIENT_NAME
+Joshi O
+diagnosed O
+with O
+Urinary B-DIAGNOSIS
+Tract I-DIAGNOSIS
+Infection I-DIAGNOSIS
+
+Patient O
+Kavita B-PATIENT_NAME
+Desai I-PATIENT_NAME
+Desai O
+diagnosed O
+with O
+Anemia B-DIAGNOSIS
+
+Tab. O
+Glimepiride B-MEDICINE_NAME
+500mg B-DOSAGE
+SOS B-FREQUENCY
+for O
+7 B-DURATION
+days I-DURATION
+
+Patient O
+Deepak B-PATIENT_NAME
+Joshi I-PATIENT_NAME
+Joshi O
+diagnosed O
+with O
+Viral B-DIAGNOSIS
+Fever I-DIAGNOSIS
+
+Patient O
+Vijay B-PATIENT_NAME
+Rao I-PATIENT_NAME
+Rao O
+diagnosed O
+with O
+Sinusitis B-DIAGNOSIS
+
+Tab. O
+Ramipril B-MEDICINE_NAME
+40mg B-DOSAGE
+HS B-FREQUENCY
+for O
+10 B-DURATION
+days I-DURATION
+
+Tab. O
+Amlodipine B-MEDICINE_NAME
+500mg B-DOSAGE
+SOS B-FREQUENCY
+for O
+3 B-DURATION
+days I-DURATION
+
+Patient O
+Sunita B-PATIENT_NAME
+Sharma I-PATIENT_NAME
+Sharma O
+diagnosed O
+with O
+Acute B-DIAGNOSIS
+Gastritis I-DIAGNOSIS
+
+Tab. O
+Salbutamol B-MEDICINE_NAME
+250mg B-DOSAGE
+SOS B-FREQUENCY
+for O
+10 B-DURATION
+days I-DURATION
+
+Patient O
+Kavita B-PATIENT_NAME
+Desai I-PATIENT_NAME
+Desai O
+diagnosed O
+with O
+Urinary B-DIAGNOSIS
+Tract I-DIAGNOSIS
+Infection I-DIAGNOSIS
+
+Tab. O
+Ciprofloxacin B-MEDICINE_NAME
+20mg B-DOSAGE
+QID B-FREQUENCY
+for O
+1 B-DURATION
+month I-DURATION
+
+Patient O
+Vijay B-PATIENT_NAME
+Rao I-PATIENT_NAME
+Rao O
+diagnosed O
+with O
+Urinary B-DIAGNOSIS
+Tract I-DIAGNOSIS
+Infection I-DIAGNOSIS
+
+Tab. O
+Paracetamol B-MEDICINE_NAME
+1g B-DOSAGE
+QID B-FREQUENCY
+for O
+1 B-DURATION
+month I-DURATION
+
+Tab. O
+Doxycycline B-MEDICINE_NAME
+100mg B-DOSAGE
+OD B-FREQUENCY
+for O
+14 B-DURATION
+days I-DURATION
+
+Tab. O
+Losartan B-MEDICINE_NAME
+20mg B-DOSAGE
+HS B-FREQUENCY
+for O
+14 B-DURATION
+days I-DURATION
+
+Patient O
+Ramesh B-PATIENT_NAME
+Patil I-PATIENT_NAME
+Patil O
+diagnosed O
+with O
+Tonsillitis B-DIAGNOSIS
+
+Patient O
+Sunita B-PATIENT_NAME
+Sharma I-PATIENT_NAME
+Sharma O
+diagnosed O
+with O
+Anemia B-DIAGNOSIS
+
+Patient O
+Kavita B-PATIENT_NAME
+Desai I-PATIENT_NAME
+Desai O
+diagnosed O
+with O
+Type B-DIAGNOSIS
+2 I-DIAGNOSIS
+Diabetes I-DIAGNOSIS
+
+Patient O
+Arun B-PATIENT_NAME
+Kumar I-PATIENT_NAME
+Kumar O
+diagnosed O
+with O
+Sinusitis B-DIAGNOSIS
+
+Tab. O
+Diclofenac B-MEDICINE_NAME
+40mg B-DOSAGE
+SOS B-FREQUENCY
+for O
+3 B-DURATION
+days I-DURATION
+
+Tab. O
+Azithromycin B-MEDICINE_NAME
+10mg B-DOSAGE
+SOS B-FREQUENCY
+for O
+10 B-DURATION
+days I-DURATION
+
+Tab. O
+Paracetamol B-MEDICINE_NAME
+5mg B-DOSAGE
+HS B-FREQUENCY
+for O
+1 B-DURATION
+month I-DURATION
+
+Tab. O
+Amlodipine B-MEDICINE_NAME
+500mg B-DOSAGE
+TDS B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Tab. O
+Ciprofloxacin B-MEDICINE_NAME
+100mg B-DOSAGE
+BD B-FREQUENCY
+for O
+1 B-DURATION
+month I-DURATION
+
+Patient O
+Sunita B-PATIENT_NAME
+Sharma I-PATIENT_NAME
+Sharma O
+diagnosed O
+with O
+Tonsillitis B-DIAGNOSIS
+
+Tab. O
+Omeprazole B-MEDICINE_NAME
+1g B-DOSAGE
+BD B-FREQUENCY
+for O
+1 B-DURATION
+month I-DURATION
+
+Tab. O
+Losartan B-MEDICINE_NAME
+100mg B-DOSAGE
+TDS B-FREQUENCY
+for O
+1 B-DURATION
+month I-DURATION
+
+Patient O
+Meena B-PATIENT_NAME
+Nair I-PATIENT_NAME
+Nair O
+diagnosed O
+with O
+Viral B-DIAGNOSIS
+Fever I-DIAGNOSIS
+
+Tab. O
+Ramipril B-MEDICINE_NAME
+100mg B-DOSAGE
+OD B-FREQUENCY
+for O
+7 B-DURATION
+days I-DURATION
+
+Patient O
+Vijay B-PATIENT_NAME
+Rao I-PATIENT_NAME
+Rao O
+diagnosed O
+with O
+Typhoid B-DIAGNOSIS
+
+Tab. O
+Azithromycin B-MEDICINE_NAME
+250mg B-DOSAGE
+TDS B-FREQUENCY
+for O
+1 B-DURATION
+month I-DURATION
+
+Patient O
+Vijay B-PATIENT_NAME
+Rao I-PATIENT_NAME
+Rao O
+diagnosed O
+with O
+Malaria B-DIAGNOSIS
+
+Tab. O
+Atorvastatin B-MEDICINE_NAME
+250mg B-DOSAGE
+OD B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Tab. O
+Ondansetron B-MEDICINE_NAME
+1g B-DOSAGE
+HS B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Patient O
+Meena B-PATIENT_NAME
+Nair I-PATIENT_NAME
+Nair O
+diagnosed O
+with O
+Hypothyroidism B-DIAGNOSIS
+
+Patient O
+Sunita B-PATIENT_NAME
+Sharma I-PATIENT_NAME
+Sharma O
+diagnosed O
+with O
+Malaria B-DIAGNOSIS
+
+Tab. O
+Ondansetron B-MEDICINE_NAME
+5mg B-DOSAGE
+OD B-FREQUENCY
+for O
+14 B-DURATION
+days I-DURATION
+
+Tab. O
+Salbutamol B-MEDICINE_NAME
+10mg B-DOSAGE
+BD B-FREQUENCY
+for O
+7 B-DURATION
+days I-DURATION
+
+Tab. O
+Amlodipine B-MEDICINE_NAME
+500mg B-DOSAGE
+TDS B-FREQUENCY
+for O
+3 B-DURATION
+days I-DURATION
+
+Tab. O
+Metformin B-MEDICINE_NAME
+200mg B-DOSAGE
+HS B-FREQUENCY
+for O
+7 B-DURATION
+days I-DURATION
+
+Tab. O
+Diclofenac B-MEDICINE_NAME
+1g B-DOSAGE
+TDS B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Patient O
+Priya B-PATIENT_NAME
+Singh I-PATIENT_NAME
+Singh O
+diagnosed O
+with O
+Tonsillitis B-DIAGNOSIS
+
+Tab. O
+Glimepiride B-MEDICINE_NAME
+100mg B-DOSAGE
+SOS B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Tab. O
+Omeprazole B-MEDICINE_NAME
+5mg B-DOSAGE
+QID B-FREQUENCY
+for O
+1 B-DURATION
+month I-DURATION
+
+Tab. O
+Atorvastatin B-MEDICINE_NAME
+1g B-DOSAGE
+QID B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Tab. O
+Glimepiride B-MEDICINE_NAME
+200mg B-DOSAGE
+OD B-FREQUENCY
+for O
+14 B-DURATION
+days I-DURATION
+
+Tab. O
+Salbutamol B-MEDICINE_NAME
+5mg B-DOSAGE
+HS B-FREQUENCY
+for O
+7 B-DURATION
+days I-DURATION
+
+Tab. O
+Ibuprofen B-MEDICINE_NAME
+5mg B-DOSAGE
+OD B-FREQUENCY
+for O
+10 B-DURATION
+days I-DURATION
+
+Tab. O
+Ciprofloxacin B-MEDICINE_NAME
+5mg B-DOSAGE
+OD B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Patient O
+Kavita B-PATIENT_NAME
+Desai I-PATIENT_NAME
+Desai O
+diagnosed O
+with O
+Dengue B-DIAGNOSIS
+Fever I-DIAGNOSIS
+
+Tab. O
+Atorvastatin B-MEDICINE_NAME
+100mg B-DOSAGE
+QID B-FREQUENCY
+for O
+14 B-DURATION
+days I-DURATION
+
+Patient O
+Arun B-PATIENT_NAME
+Kumar I-PATIENT_NAME
+Kumar O
+diagnosed O
+with O
+Hypothyroidism B-DIAGNOSIS
+
+Tab. O
+Pantoprazole B-MEDICINE_NAME
+200mg B-DOSAGE
+TDS B-FREQUENCY
+for O
+10 B-DURATION
+days I-DURATION
+
+Tab. O
+Ramipril B-MEDICINE_NAME
+500mg B-DOSAGE
+SOS B-FREQUENCY
+for O
+3 B-DURATION
+days I-DURATION
+
+Tab. O
+Atorvastatin B-MEDICINE_NAME
+500mg B-DOSAGE
+TDS B-FREQUENCY
+for O
+7 B-DURATION
+days I-DURATION
+
+Patient O
+Kavita B-PATIENT_NAME
+Desai I-PATIENT_NAME
+Desai O
+diagnosed O
+with O
+Acute B-DIAGNOSIS
+Gastritis I-DIAGNOSIS
+
+Patient O
+Meena B-PATIENT_NAME
+Nair I-PATIENT_NAME
+Nair O
+diagnosed O
+with O
+Acute B-DIAGNOSIS
+Gastritis I-DIAGNOSIS
+
+Patient O
+Kavita B-PATIENT_NAME
+Desai I-PATIENT_NAME
+Desai O
+diagnosed O
+with O
+Sinusitis B-DIAGNOSIS
+
+Patient O
+Arun B-PATIENT_NAME
+Kumar I-PATIENT_NAME
+Kumar O
+diagnosed O
+with O
+Dengue B-DIAGNOSIS
+Fever I-DIAGNOSIS
+
+Patient O
+Sunita B-PATIENT_NAME
+Sharma I-PATIENT_NAME
+Sharma O
+diagnosed O
+with O
+Bronchitis B-DIAGNOSIS
+
+Patient O
+Sunita B-PATIENT_NAME
+Sharma I-PATIENT_NAME
+Sharma O
+diagnosed O
+with O
+Bronchitis B-DIAGNOSIS
+
+Patient O
+Deepak B-PATIENT_NAME
+Joshi I-PATIENT_NAME
+Joshi O
+diagnosed O
+with O
+Hypothyroidism B-DIAGNOSIS
+
+Patient O
+Deepak B-PATIENT_NAME
+Joshi I-PATIENT_NAME
+Joshi O
+diagnosed O
+with O
+Sinusitis B-DIAGNOSIS
+
+Tab. O
+Ciprofloxacin B-MEDICINE_NAME
+40mg B-DOSAGE
+BD B-FREQUENCY
+for O
+14 B-DURATION
+days I-DURATION
+
+Tab. O
+Prednisolone B-MEDICINE_NAME
+20mg B-DOSAGE
+BD B-FREQUENCY
+for O
+7 B-DURATION
+days I-DURATION
+
+Patient O
+Deepak B-PATIENT_NAME
+Joshi I-PATIENT_NAME
+Joshi O
+diagnosed O
+with O
+Acute B-DIAGNOSIS
+Gastritis I-DIAGNOSIS
+
+Patient O
+Priya B-PATIENT_NAME
+Singh I-PATIENT_NAME
+Singh O
+diagnosed O
+with O
+Hypothyroidism B-DIAGNOSIS
+
+Tab. O
+Diclofenac B-MEDICINE_NAME
+10mg B-DOSAGE
+HS B-FREQUENCY
+for O
+1 B-DURATION
+month I-DURATION
+
+Patient O
+Meena B-PATIENT_NAME
+Nair I-PATIENT_NAME
+Nair O
+diagnosed O
+with O
+Pneumonia B-DIAGNOSIS
+
+Tab. O
+Losartan B-MEDICINE_NAME
+200mg B-DOSAGE
+BD B-FREQUENCY
+for O
+3 B-DURATION
+days I-DURATION
+
+Patient O
+Priya B-PATIENT_NAME
+Singh I-PATIENT_NAME
+Singh O
+diagnosed O
+with O
+Hypothyroidism B-DIAGNOSIS
+
+Tab. O
+Pantoprazole B-MEDICINE_NAME
+40mg B-DOSAGE
+BD B-FREQUENCY
+for O
+1 B-DURATION
+month I-DURATION
+
+Patient O
+Priya B-PATIENT_NAME
+Singh I-PATIENT_NAME
+Singh O
+diagnosed O
+with O
+Bronchitis B-DIAGNOSIS
+
+Patient O
+Deepak B-PATIENT_NAME
+Joshi I-PATIENT_NAME
+Joshi O
+diagnosed O
+with O
+Malaria B-DIAGNOSIS
+
+Patient O
+Meena B-PATIENT_NAME
+Nair I-PATIENT_NAME
+Nair O
+diagnosed O
+with O
+Typhoid B-DIAGNOSIS
+
+Tab. O
+Ibuprofen B-MEDICINE_NAME
+250mg B-DOSAGE
+TDS B-FREQUENCY
+for O
+3 B-DURATION
+days I-DURATION
+
+Patient O
+Vijay B-PATIENT_NAME
+Rao I-PATIENT_NAME
+Rao O
+diagnosed O
+with O
+Sinusitis B-DIAGNOSIS
+
+Tab. O
+Azithromycin B-MEDICINE_NAME
+10mg B-DOSAGE
+TDS B-FREQUENCY
+for O
+10 B-DURATION
+days I-DURATION
+
+Patient O
+Deepak B-PATIENT_NAME
+Joshi I-PATIENT_NAME
+Joshi O
+diagnosed O
+with O
+Typhoid B-DIAGNOSIS
+
+Patient O
+Deepak B-PATIENT_NAME
+Joshi I-PATIENT_NAME
+Joshi O
+diagnosed O
+with O
+Urinary B-DIAGNOSIS
+Tract I-DIAGNOSIS
+Infection I-DIAGNOSIS
+
+Tab. O
+Ramipril B-MEDICINE_NAME
+100mg B-DOSAGE
+QID B-FREQUENCY
+for O
+3 B-DURATION
+days I-DURATION
+
+Patient O
+Vijay B-PATIENT_NAME
+Rao I-PATIENT_NAME
+Rao O
+diagnosed O
+with O
+Dengue B-DIAGNOSIS
+Fever I-DIAGNOSIS
+
+Patient O
+Arun B-PATIENT_NAME
+Kumar I-PATIENT_NAME
+Kumar O
+diagnosed O
+with O
+Hypertension B-DIAGNOSIS
+
+Tab. O
+Metformin B-MEDICINE_NAME
+40mg B-DOSAGE
+OD B-FREQUENCY
+for O
+3 B-DURATION
+days I-DURATION
+
+Tab. O
+Ibuprofen B-MEDICINE_NAME
+250mg B-DOSAGE
+QID B-FREQUENCY
+for O
+14 B-DURATION
+days I-DURATION
+
+Patient O
+Sunita B-PATIENT_NAME
+Sharma I-PATIENT_NAME
+Sharma O
+diagnosed O
+with O
+Type B-DIAGNOSIS
+2 I-DIAGNOSIS
+Diabetes I-DIAGNOSIS
+
+Patient O
+Ramesh B-PATIENT_NAME
+Patil I-PATIENT_NAME
+Patil O
+diagnosed O
+with O
+Urinary B-DIAGNOSIS
+Tract I-DIAGNOSIS
+Infection I-DIAGNOSIS
+
+Tab. O
+Paracetamol B-MEDICINE_NAME
+250mg B-DOSAGE
+TDS B-FREQUENCY
+for O
+14 B-DURATION
+days I-DURATION
+
+Patient O
+Vijay B-PATIENT_NAME
+Rao I-PATIENT_NAME
+Rao O
+diagnosed O
+with O
+Acute B-DIAGNOSIS
+Gastritis I-DIAGNOSIS
+
+Tab. O
+Salbutamol B-MEDICINE_NAME
+10mg B-DOSAGE
+QID B-FREQUENCY
+for O
+14 B-DURATION
+days I-DURATION
+
+Patient O
+Meena B-PATIENT_NAME
+Nair I-PATIENT_NAME
+Nair O
+diagnosed O
+with O
+Typhoid B-DIAGNOSIS
+
+Tab. O
+Atorvastatin B-MEDICINE_NAME
+500mg B-DOSAGE
+QID B-FREQUENCY
+for O
+14 B-DURATION
+days I-DURATION
+
+Patient O
+Priya B-PATIENT_NAME
+Singh I-PATIENT_NAME
+Singh O
+diagnosed O
+with O
+Tonsillitis B-DIAGNOSIS
+
+Tab. O
+Amlodipine B-MEDICINE_NAME
+10mg B-DOSAGE
+QID B-FREQUENCY
+for O
+14 B-DURATION
+days I-DURATION
+
+Tab. O
+Omeprazole B-MEDICINE_NAME
+250mg B-DOSAGE
+QID B-FREQUENCY
+for O
+1 B-DURATION
+month I-DURATION
+
+Patient O
+Kavita B-PATIENT_NAME
+Desai I-PATIENT_NAME
+Desai O
+diagnosed O
+with O
+Tonsillitis B-DIAGNOSIS
+
+Tab. O
+Metformin B-MEDICINE_NAME
+10mg B-DOSAGE
+SOS B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Tab. O
+Losartan B-MEDICINE_NAME
+1g B-DOSAGE
+BD B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Patient O
+Ramesh B-PATIENT_NAME
+Patil I-PATIENT_NAME
+Patil O
+diagnosed O
+with O
+Hypertension B-DIAGNOSIS
+
+Tab. O
+Diclofenac B-MEDICINE_NAME
+5mg B-DOSAGE
+QID B-FREQUENCY
+for O
+14 B-DURATION
+days I-DURATION
+
+Patient O
+Priya B-PATIENT_NAME
+Singh I-PATIENT_NAME
+Singh O
+diagnosed O
+with O
+Malaria B-DIAGNOSIS
+
+Tab. O
+Metformin B-MEDICINE_NAME
+250mg B-DOSAGE
+SOS B-FREQUENCY
+for O
+1 B-DURATION
+month I-DURATION
+
+Patient O
+Arun B-PATIENT_NAME
+Kumar I-PATIENT_NAME
+Kumar O
+diagnosed O
+with O
+Malaria B-DIAGNOSIS
+
+Patient O
+Vijay B-PATIENT_NAME
+Rao I-PATIENT_NAME
+Rao O
+diagnosed O
+with O
+Sinusitis B-DIAGNOSIS
+
+Tab. O
+Cefixime B-MEDICINE_NAME
+20mg B-DOSAGE
+BD B-FREQUENCY
+for O
+1 B-DURATION
+month I-DURATION
+
+Patient O
+Meena B-PATIENT_NAME
+Nair I-PATIENT_NAME
+Nair O
+diagnosed O
+with O
+Dengue B-DIAGNOSIS
+Fever I-DIAGNOSIS
+
+Patient O
+Kavita B-PATIENT_NAME
+Desai I-PATIENT_NAME
+Desai O
+diagnosed O
+with O
+Viral B-DIAGNOSIS
+Fever I-DIAGNOSIS
+
+Patient O
+Kavita B-PATIENT_NAME
+Desai I-PATIENT_NAME
+Desai O
+diagnosed O
+with O
+Sinusitis B-DIAGNOSIS
+
+Tab. O
+Prednisolone B-MEDICINE_NAME
+1g B-DOSAGE
+HS B-FREQUENCY
+for O
+3 B-DURATION
+days I-DURATION
+
+Patient O
+Vijay B-PATIENT_NAME
+Rao I-PATIENT_NAME
+Rao O
+diagnosed O
+with O
+Type B-DIAGNOSIS
+2 I-DIAGNOSIS
+Diabetes I-DIAGNOSIS
+
+Tab. O
+Cetirizine B-MEDICINE_NAME
+40mg B-DOSAGE
+TDS B-FREQUENCY
+for O
+10 B-DURATION
+days I-DURATION
+
+Patient O
+Deepak B-PATIENT_NAME
+Joshi I-PATIENT_NAME
+Joshi O
+diagnosed O
+with O
+Urinary B-DIAGNOSIS
+Tract I-DIAGNOSIS
+Infection I-DIAGNOSIS
+
+Tab. O
+Amlodipine B-MEDICINE_NAME
+100mg B-DOSAGE
+OD B-FREQUENCY
+for O
+1 B-DURATION
+month I-DURATION
+
+Tab. O
+Azithromycin B-MEDICINE_NAME
+100mg B-DOSAGE
+HS B-FREQUENCY
+for O
+3 B-DURATION
+days I-DURATION
+
+Patient O
+Meena B-PATIENT_NAME
+Nair I-PATIENT_NAME
+Nair O
+diagnosed O
+with O
+Anemia B-DIAGNOSIS
+
+Patient O
+Ramesh B-PATIENT_NAME
+Patil I-PATIENT_NAME
+Patil O
+diagnosed O
+with O
+Dengue B-DIAGNOSIS
+Fever I-DIAGNOSIS
+
+Patient O
+Kavita B-PATIENT_NAME
+Desai I-PATIENT_NAME
+Desai O
+diagnosed O
+with O
+Dengue B-DIAGNOSIS
+Fever I-DIAGNOSIS
+
+Patient O
+Vijay B-PATIENT_NAME
+Rao I-PATIENT_NAME
+Rao O
+diagnosed O
+with O
+Hypertension B-DIAGNOSIS
+
+Patient O
+Priya B-PATIENT_NAME
+Singh I-PATIENT_NAME
+Singh O
+diagnosed O
+with O
+Bronchitis B-DIAGNOSIS
+
+Patient O
+Deepak B-PATIENT_NAME
+Joshi I-PATIENT_NAME
+Joshi O
+diagnosed O
+with O
+Bronchitis B-DIAGNOSIS
+
+Patient O
+Arun B-PATIENT_NAME
+Kumar I-PATIENT_NAME
+Kumar O
+diagnosed O
+with O
+Type B-DIAGNOSIS
+2 I-DIAGNOSIS
+Diabetes I-DIAGNOSIS
+
+Tab. O
+Ondansetron B-MEDICINE_NAME
+200mg B-DOSAGE
+QID B-FREQUENCY
+for O
+14 B-DURATION
+days I-DURATION
+
+Tab. O
+Amoxicillin B-MEDICINE_NAME
+5mg B-DOSAGE
+TDS B-FREQUENCY
+for O
+3 B-DURATION
+days I-DURATION
+
+Tab. O
+Azithromycin B-MEDICINE_NAME
+1g B-DOSAGE
+OD B-FREQUENCY
+for O
+14 B-DURATION
+days I-DURATION
+
+Tab. O
+Ibuprofen B-MEDICINE_NAME
+250mg B-DOSAGE
+QID B-FREQUENCY
+for O
+7 B-DURATION
+days I-DURATION
+
+Patient O
+Deepak B-PATIENT_NAME
+Joshi I-PATIENT_NAME
+Joshi O
+diagnosed O
+with O
+Type B-DIAGNOSIS
+2 I-DIAGNOSIS
+Diabetes I-DIAGNOSIS
+
+Tab. O
+Ramipril B-MEDICINE_NAME
+20mg B-DOSAGE
+BD B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Patient O
+Arun B-PATIENT_NAME
+Kumar I-PATIENT_NAME
+Kumar O
+diagnosed O
+with O
+Acute B-DIAGNOSIS
+Gastritis I-DIAGNOSIS
+
+Tab. O
+Salbutamol B-MEDICINE_NAME
+250mg B-DOSAGE
+QID B-FREQUENCY
+for O
+3 B-DURATION
+days I-DURATION
+
+Tab. O
+Diclofenac B-MEDICINE_NAME
+200mg B-DOSAGE
+SOS B-FREQUENCY
+for O
+10 B-DURATION
+days I-DURATION
+
+Tab. O
+Salbutamol B-MEDICINE_NAME
+500mg B-DOSAGE
+BD B-FREQUENCY
+for O
+14 B-DURATION
+days I-DURATION
+
+Tab. O
+Azithromycin B-MEDICINE_NAME
+250mg B-DOSAGE
+TDS B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Tab. O
+Losartan B-MEDICINE_NAME
+200mg B-DOSAGE
+TDS B-FREQUENCY
+for O
+1 B-DURATION
+month I-DURATION
+
+Tab. O
+Atorvastatin B-MEDICINE_NAME
+200mg B-DOSAGE
+BD B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Tab. O
+Ciprofloxacin B-MEDICINE_NAME
+1g B-DOSAGE
+TDS B-FREQUENCY
+for O
+14 B-DURATION
+days I-DURATION
+
+Tab. O
+Doxycycline B-MEDICINE_NAME
+200mg B-DOSAGE
+OD B-FREQUENCY
+for O
+10 B-DURATION
+days I-DURATION
+
+Tab. O
+Omeprazole B-MEDICINE_NAME
+500mg B-DOSAGE
+SOS B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Tab. O
+Salbutamol B-MEDICINE_NAME
+40mg B-DOSAGE
+QID B-FREQUENCY
+for O
+7 B-DURATION
+days I-DURATION
+
+Patient O
+Kavita B-PATIENT_NAME
+Desai I-PATIENT_NAME
+Desai O
+diagnosed O
+with O
+Urinary B-DIAGNOSIS
+Tract I-DIAGNOSIS
+Infection I-DIAGNOSIS
+
+Tab. O
+Metformin B-MEDICINE_NAME
+10mg B-DOSAGE
+BD B-FREQUENCY
+for O
+1 B-DURATION
+month I-DURATION
+
+Tab. O
+Azithromycin B-MEDICINE_NAME
+5mg B-DOSAGE
+BD B-FREQUENCY
+for O
+3 B-DURATION
+days I-DURATION
+
+Patient O
+Kavita B-PATIENT_NAME
+Desai I-PATIENT_NAME
+Desai O
+diagnosed O
+with O
+Malaria B-DIAGNOSIS
+
+Patient O
+Vijay B-PATIENT_NAME
+Rao I-PATIENT_NAME
+Rao O
+diagnosed O
+with O
+Typhoid B-DIAGNOSIS
+
+Patient O
+Meena B-PATIENT_NAME
+Nair I-PATIENT_NAME
+Nair O
+diagnosed O
+with O
+Hypothyroidism B-DIAGNOSIS
+
+Patient O
+Deepak B-PATIENT_NAME
+Joshi I-PATIENT_NAME
+Joshi O
+diagnosed O
+with O
+Tonsillitis B-DIAGNOSIS
+
+Patient O
+Kavita B-PATIENT_NAME
+Desai I-PATIENT_NAME
+Desai O
+diagnosed O
+with O
+Type B-DIAGNOSIS
+2 I-DIAGNOSIS
+Diabetes I-DIAGNOSIS
+
+Tab. O
+Amoxicillin B-MEDICINE_NAME
+10mg B-DOSAGE
+OD B-FREQUENCY
+for O
+14 B-DURATION
+days I-DURATION
+
+Patient O
+Deepak B-PATIENT_NAME
+Joshi I-PATIENT_NAME
+Joshi O
+diagnosed O
+with O
+Sinusitis B-DIAGNOSIS
+
+Tab. O
+Pantoprazole B-MEDICINE_NAME
+5mg B-DOSAGE
+SOS B-FREQUENCY
+for O
+10 B-DURATION
+days I-DURATION
+
+Patient O
+Ramesh B-PATIENT_NAME
+Patil I-PATIENT_NAME
+Patil O
+diagnosed O
+with O
+Bronchitis B-DIAGNOSIS
+
+Patient O
+Priya B-PATIENT_NAME
+Singh I-PATIENT_NAME
+Singh O
+diagnosed O
+with O
+Malaria B-DIAGNOSIS
+
+Tab. O
+Cetirizine B-MEDICINE_NAME
+5mg B-DOSAGE
+HS B-FREQUENCY
+for O
+5 B-DURATION
+days I-DURATION
+
+Patient O
+Arun B-PATIENT_NAME
+Kumar I-PATIENT_NAME
+Kumar O
+diagnosed O
+with O
+Sinusitis B-DIAGNOSIS
+
+Patient O
+Priya B-PATIENT_NAME
+Singh I-PATIENT_NAME
+Singh O
+diagnosed O
+with O
+Dengue B-DIAGNOSIS
+Fever I-DIAGNOSIS
+
+Tab. O
+Paracetamol B-MEDICINE_NAME
+10mg B-DOSAGE
+SOS B-FREQUENCY
+for O
+7 B-DURATION
+days I-DURATION
+
+Patient O
+Kavita B-PATIENT_NAME
+Desai I-PATIENT_NAME
+Desai O
+diagnosed O
+with O
+Dengue B-DIAGNOSIS
+Fever I-DIAGNOSIS
+
+Patient O
+Priya B-PATIENT_NAME
+Singh I-PATIENT_NAME
+Singh O
+diagnosed O
+with O
+Bronchitis B-DIAGNOSIS
+
+Patient O
+Vijay B-PATIENT_NAME
+Rao I-PATIENT_NAME
+Rao O
+diagnosed O
+with O
+Type B-DIAGNOSIS
+2 I-DIAGNOSIS
+Diabetes I-DIAGNOSIS
+
+Tab. O
+Salbutamol B-MEDICINE_NAME
+1g B-DOSAGE
+HS B-FREQUENCY
+for O
+3 B-DURATION
+days I-DURATION
+
+Patient O
+Ramesh B-PATIENT_NAME
+Patil I-PATIENT_NAME
+Patil O
+diagnosed O
+with O
+Bronchitis B-DIAGNOSIS
+
+Patient O
+Vijay B-PATIENT_NAME
+Rao I-PATIENT_NAME
+Rao O
+diagnosed O
+with O
+Malaria B-DIAGNOSIS
+
+Patient O
+Deepak B-PATIENT_NAME
+Joshi I-PATIENT_NAME
+Joshi O
+diagnosed O
+with O
+Hypertension B-DIAGNOSIS
+
+Patient O
+Kavita B-PATIENT_NAME
+Desai I-PATIENT_NAME
+Desai O
+diagnosed O
+with O
+Sinusitis B-DIAGNOSIS
+
+Tab. O
+Glimepiride B-MEDICINE_NAME
+250mg B-DOSAGE
+TDS B-FREQUENCY
+for O
+7 B-DURATION
+days I-DURATION
+
+Tab. O
+Diclofenac B-MEDICINE_NAME
+200mg B-DOSAGE
+BD B-FREQUENCY
+for O
+3 B-DURATION
+days I-DURATION
+
+Tab. O
+Atorvastatin B-MEDICINE_NAME
+200mg B-DOSAGE
+TDS B-FREQUENCY
+for O
+3 B-DURATION
+days I-DURATION
+
+Tab. O
+Doxycycline B-MEDICINE_NAME
+10mg B-DOSAGE
+HS B-FREQUENCY
+for O
+14 B-DURATION
+days I-DURATION
+
+Patient O
+Kavita B-PATIENT_NAME
+Desai I-PATIENT_NAME
+Desai O
+diagnosed O
+with O
+Viral B-DIAGNOSIS
+Fever I-DIAGNOSIS
+
+Patient O
+Kavita B-PATIENT_NAME
+Desai I-PATIENT_NAME
+Desai O
+diagnosed O
+with O
+Bronchitis B-DIAGNOSIS
+
+Patient O
+Meena B-PATIENT_NAME
+Nair I-PATIENT_NAME
+Nair O
+diagnosed O
+with O
+Anemia B-DIAGNOSIS
+
